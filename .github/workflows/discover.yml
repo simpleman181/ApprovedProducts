@@ -1,0 +1,32 @@
+name: Discover CDSCO endpoints
+
+on:
+  workflow_dispatch:
+    inputs:
+      page_url:
+        description: "The CDSCO page you open in your browser to see approvals"
+        required: true
+        default: "https://cdscoonline.gov.in/CDSCO/loadDrugApprovals"
+      click_selector:
+        description: "Optional: selector of the Search button, e.g. text=Search"
+        required: false
+
+jobs:
+  discover:
+    runs-on: ubuntu-latest
+    env:
+      CDSCO_BASE: ${{ vars.CDSCO_BASE || 'https://cdscoonline.gov.in' }}
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with: { python-version: "3.12" }
+      - run: pip install -r scripts/cdsco/requirements.txt
+      - run: python -m playwright install --with-deps chromium
+      - name: Run discovery
+        run: |
+          python scripts/cdsco/discover.py --url "${{ github.event.inputs.page_url }}" ${{ github.event.inputs.click_selector && format('--click "{0}"', github.event.inputs.click_selector) || '' }}
+          cat data/discovery/report.md >> "$GITHUB_STEP_SUMMARY"
+      - uses: actions/upload-artifact@v4
+        with:
+          name: cdsco-discovery
+          path: data/discovery/
