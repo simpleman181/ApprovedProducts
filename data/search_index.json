@@ -1,0 +1,137 @@
+{
+ "meta": {
+  "version": 1,
+  "generatedAt": "2026-10-08T04:10:55+00:00",
+  "count": 7,
+  "sample": true
+ },
+ "records": [
+  {
+   "drug": "Pembrolizumab 100 mg/4 mL",
+   "company": "Example Biologics C",
+   "date": "2026-05-20",
+   "year": 2026,
+   "month": 5,
+   "indication": "Non-small cell lung cancer (NSCLC)",
+   "recommendation": "Additional data requested",
+   "decision": "Additional data requested",
+   "therapy": [
+    "Oncology"
+   ],
+   "drugType": "Biologic / biosimilar",
+   "sourceUrl": "https://cdscoonline.gov.in/CDSCO/loadDrugApprovals?searchText=Pembrolizumab+100+mg%2F4+mL&year=2026&month=5&drugTypeValue=",
+   "linkKind": "listing",
+   "id": "12e368055d4e",
+   "firstSeen": "2026-10-08"
+  },
+  {
+   "drug": "Tirzepatide injection",
+   "company": "Example Pharma F",
+   "date": "2026-05-11",
+   "year": 2026,
+   "month": 5,
+   "indication": "Type 2 diabetes mellitus",
+   "recommendation": "Approved",
+   "decision": "Recommended",
+   "therapy": [
+    "Diabetes & Endocrine"
+   ],
+   "drugType": "New drug",
+   "sourceUrl": "https://cdscoonline.gov.in/CDSCO/loadDrugApprovals?searchText=Tirzepatide+injection&year=2026&month=5&drugTypeValue=",
+   "linkKind": "listing",
+   "id": "1c873f95e8f5",
+   "firstSeen": "2026-10-08"
+  },
+  {
+   "drug": "Mirabegron ER 50 mg",
+   "company": "Example Pharma G",
+   "date": "2026-05",
+   "year": 2026,
+   "month": 5,
+   "indication": "Overactive bladder",
+   "recommendation": "Recommended for import and marketing",
+   "decision": "Recommended",
+   "therapy": [
+    "Urology & Nephrology"
+   ],
+   "drugType": "New drug",
+   "sourceUrl": "https://cdscoonline.gov.in/CDSCO/loadDrugApprovals?searchText=Mirabegron+ER+50+mg&year=2026&month=5&drugTypeValue=",
+   "linkKind": "listing",
+   "id": "254a47a729ef",
+   "firstSeen": "2026-10-08"
+  },
+  {
+   "drug": "Trastuzumab biosimilar 150 mg",
+   "company": "Example Biologics C",
+   "date": "2026-04-02",
+   "year": 2026,
+   "month": 4,
+   "indication": "HER2-positive metastatic breast cancer",
+   "recommendation": "Recommended for approval.",
+   "decision": "Recommended",
+   "therapy": [
+    "Oncology"
+   ],
+   "drugType": "Unspecified",
+   "sourceUrl": "https://cdscoonline.gov.in/CDSCO/loadDrugApprovals?searchText=Trastuzumab+biosimilar+150+mg&year=2026&month=3&drugTypeValue=",
+   "linkKind": "listing",
+   "id": "686002042bf2",
+   "firstSeen": "2026-10-08"
+  },
+  {
+   "drug": "Silodosin 8 mg",
+   "company": "Example Pharma D",
+   "date": "2026-04-02",
+   "year": 2026,
+   "month": 4,
+   "indication": "Benign prostatic hyperplasia",
+   "recommendation": "Not recommended; justification inadequate.",
+   "decision": "Not recommended",
+   "therapy": [
+    "Urology & Nephrology"
+   ],
+   "drugType": "Unspecified",
+   "sourceUrl": "https://cdscoonline.gov.in/CDSCO/loadDrugApprovals?searchText=Silodosin+8+mg&year=2026&month=3&drugTypeValue=",
+   "linkKind": "listing",
+   "id": "22bede7f2053",
+   "firstSeen": "2026-10-08"
+  },
+  {
+   "drug": "Tadalafil + Dapoxetine tablets",
+   "company": "Example Pharma B",
+   "date": "2026-03-14",
+   "year": 2026,
+   "month": 3,
+   "indication": "Erectile dysfunction with premature ejaculation",
+   "recommendation": "The committee recommended grant of permission for the FDC subject to Phase IV protocol.",
+   "decision": "Recommended",
+   "therapy": [
+    "Urology & Nephrology"
+   ],
+   "drugType": "Fixed-dose combination",
+   "sourceUrl": "https://cdscoonline.gov.in/docs/sec_14032026_b.pdf",
+   "linkKind": "document",
+   "id": "bc2c8ac1601d",
+   "firstSeen": "2026-10-08"
+  },
+  {
+   "drug": "SEMAGLUTIDE INJECTION 2.4 mg",
+   "company": "Example Pharma A",
+   "date": "2026-03-14",
+   "year": 2026,
+   "month": 3,
+   "indication": "Chronic weight management in adults with obesity",
+   "recommendation": "Firm to submit additional data on cardiovascular outcomes; to reappear before SEC.",
+   "decision": "Additional data requested",
+   "therapy": [
+    "Diabetes & Endocrine",
+    "Cardiovascular"
+   ],
+   "drugType": "Unspecified",
+   "sourceUrl": "https://cdscoonline.gov.in/docs/sec_14032026.pdf",
+   "linkKind": "document",
+   "id": "81a61a5ff9e8",
+   "firstSeen": "2026-10-08"
+  }
+ ]
+}

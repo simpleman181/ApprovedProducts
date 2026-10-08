@@ -1,0 +1,26 @@
+{
+  "note": "Groups of single-token names that mean the same thing for search (brand <-> INN). Extend freely; lowercase only.",
+  "groups": [
+    ["semaglutide","ozempic","wegovy","rybelsus"],
+    ["tirzepatide","mounjaro","zepbound"],
+    ["trastuzumab","herceptin"],
+    ["pembrolizumab","keytruda"],
+    ["nivolumab","opdivo"],
+    ["bevacizumab","avastin"],
+    ["rituximab","mabthera","rituxan"],
+    ["adalimumab","humira"],
+    ["empagliflozin","jardiance"],
+    ["dapagliflozin","forxiga","farxiga"],
+    ["sitagliptin","januvia"],
+    ["lenalidomide","revlimid"],
+    ["tadalafil","cialis"],
+    ["sildenafil","viagra"],
+    ["dapoxetine","priligy"],
+    ["mirabegron","myrbetriq","betmiga"],
+    ["tamsulosin","flomax"],
+    ["rivaroxaban","xarelto"],
+    ["apixaban","eliquis"],
+    ["ustekinumab","stelara"],
+    ["denosumab","prolia","xgeva"]
+  ]
+}

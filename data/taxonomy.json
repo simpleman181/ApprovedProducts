@@ -1,0 +1,81 @@
+{
+  "therapies": {
+    "Oncology": {
+      "keywords": ["cancer","carcinoma","tumour","tumor","lymphoma","leukemia","leukaemia","myeloma","metastatic","nsclc","sarcoma","melanoma","glioma","neoplasm","malignan","oncolog","chemotherap","her2","breast ca","prostate ca","bladder ca"],
+      "aliases": ["oncology","cancer","onco","tumour","tumor","oncological"]
+    },
+    "Diabetes & Endocrine": {
+      "keywords": ["diabetes","glycemic","glycaemic","hba1c","insulin","thyroid","obesity","weight management","hypoglyc","endocrine","growth hormone","osteoporosis","semaglutide","tirzepatide","dapagliflozin","empagliflozin","sitagliptin","metformin"],
+      "aliases": ["diabetes","diabetic","endocrine","endocrinology","obesity","thyroid"]
+    },
+    "Cardiovascular": {
+      "keywords": ["hypertension","heart failure","angina","myocardial","atrial fibrillation","dyslipidemia","dyslipidaemia","cholesterol","anticoagul","thrombo","stroke","cardiac","cardiovascular","statin"],
+      "aliases": ["cardiovascular","cardiac","cardiology","heart","hypertension"]
+    },
+    "Neurology": {
+      "keywords": ["epilepsy","seizure","parkinson","alzheimer","migraine","multiple sclerosis","neuropath","dementia","neurolog","spasticity"],
+      "aliases": ["neurology","neurological","neuro","epilepsy","migraine"]
+    },
+    "Psychiatry": {
+      "keywords": ["depression","schizophrenia","bipolar","anxiety","psychosis","adhd","insomnia","psychiatr"],
+      "aliases": ["psychiatry","psychiatric","depression","schizophrenia"]
+    },
+    "Infectious Disease": {
+      "keywords": ["infection","bacterial","antibiotic","antifungal","antiviral","hiv","hepatitis","tuberculosis","malaria","covid","sepsis","pneumonia","fungal","antimicrobial"],
+      "aliases": ["infection","infectious","antibiotic","antiviral","antifungal","anti-infective"]
+    },
+    "Respiratory": {
+      "keywords": ["asthma","copd","bronch","respiratory","pulmonary","rhinitis","cough","cystic fibrosis"],
+      "aliases": ["respiratory","pulmonary","asthma","copd"]
+    },
+    "Gastroenterology": {
+      "keywords": ["ulcerative colitis","crohn","gerd","reflux","ulcer","irritable bowel","ibs","constipation","liver","hepatic","pancrea","gastro","nash","nafld"],
+      "aliases": ["gastro","gastroenterology","gi","liver","hepatology"]
+    },
+    "Urology & Nephrology": {
+      "keywords": ["erectile","premature ejaculation","overactive bladder","prostat","bph","urinary","uti","renal","kidney","ckd","dialysis","nephro","urolog","hyperkalemia"],
+      "aliases": ["urology","urological","nephrology","renal","kidney","erectile","bph"]
+    },
+    "Dermatology": {
+      "keywords": ["psoriasis","atopic dermatitis","eczema","acne","alopecia","vitiligo","dermat","urticaria","skin"],
+      "aliases": ["dermatology","skin","psoriasis","dermatological"]
+    },
+    "Immunology & Rheumatology": {
+      "keywords": ["rheumatoid","arthritis","lupus","spondyl","autoimmune","immunosuppress","transplant","gout","psoriatic"],
+      "aliases": ["rheumatology","immunology","autoimmune","arthritis"]
+    },
+    "Haematology": {
+      "keywords": ["anaemia","anemia","hemophilia","haemophilia","thalassemia","thalassaemia","sickle","neutropenia","thrombocytopenia","iron deficiency","haemat","hemat"],
+      "aliases": ["haematology","hematology","anaemia","anemia","blood"]
+    },
+    "Ophthalmology": {
+      "keywords": ["glaucoma","macular","retina","ophthalm","dry eye","uveitis","myopia","conjunctivitis"],
+      "aliases": ["ophthalmology","eye","ophthalmic","retina"]
+    },
+    "Women's Health": {
+      "keywords": ["contracepti","menopaus","endometriosis","infertility","pcos","preeclampsia","postpartum","labour","labor induction","vaginal","gynaec","gynec","obstetric"],
+      "aliases": ["gynaecology","gynecology","womens","contraception","obstetrics"]
+    },
+    "Pain & Anaesthesia": {
+      "keywords": ["pain","analgesi","anaesthe","anesthe","opioid","nsaid","sedation","neuralgia"],
+      "aliases": ["pain","analgesic","anaesthesia","anesthesia"]
+    },
+    "Vaccines": {
+      "keywords": ["vaccine","immunogenicity","immunization","immunisation"],
+      "aliases": ["vaccine","vaccines","vaccination"]
+    }
+  },
+  "decisions": {
+    "Not recommended": ["not recommended","not approved","rejected","refused","not agreed","not accepted","not be granted","cannot be approved"],
+    "Additional data requested": ["additional data","further data","further information","additional information","submit","clarification","revised protocol","revised proposal","defer","reappear","present again","re-submit","resubmit","justification","bridging"],
+    "Recommended": ["recommended","approved","agreed","may be granted","permitted","accepted","granted","approval","no objection","can be approved"]
+  },
+  "drugTypes": {
+    "Fixed-dose combination": ["fixed dose","fixed-dose","fdc","combination"],
+    "Biologic / biosimilar": ["biologic","biosimilar","monoclonal","mab","pegylated","recombinant"],
+    "Vaccine": ["vaccine"],
+    "New drug": ["new drug","new chemical","nce","new molecular"],
+    "Clinical trial": ["clinical trial","phase iii","phase 3","phase ii","phase 2","protocol"],
+    "Import / subsequent": ["import","subsequent new drug","snd","already approved","new indication","new dosage","new strength","new route"]
+  }
+}

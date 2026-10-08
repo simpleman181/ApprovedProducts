@@ -1,0 +1,80 @@
+{
+ "generatedAt": "2026-10-08T04:10:55+00:00",
+ "newCount": 7,
+ "watchlistHits": [
+  {
+   "id": "81a61a5ff9e8",
+   "drug": "SEMAGLUTIDE INJECTION 2.4 mg",
+   "company": "Example Pharma A",
+   "date": "2026-03-14",
+   "decision": "Additional data requested",
+   "sourceUrl": "https://cdscoonline.gov.in/docs/sec_14032026.pdf",
+   "matched": [
+    "semaglutide"
+   ]
+  },
+  {
+   "id": "bc2c8ac1601d",
+   "drug": "Tadalafil + Dapoxetine tablets",
+   "company": "Example Pharma B",
+   "date": "2026-03-14",
+   "decision": "Recommended",
+   "sourceUrl": "https://cdscoonline.gov.in/docs/sec_14032026_b.pdf",
+   "matched": [
+    "dapoxetine",
+    "tadalafil"
+   ]
+  }
+ ],
+ "newRecords": [
+  {
+   "id": "81a61a5ff9e8",
+   "drug": "SEMAGLUTIDE INJECTION 2.4 mg",
+   "company": "Example Pharma A",
+   "date": "2026-03-14",
+   "decision": "Additional data requested"
+  },
+  {
+   "id": "bc2c8ac1601d",
+   "drug": "Tadalafil + Dapoxetine tablets",
+   "company": "Example Pharma B",
+   "date": "2026-03-14",
+   "decision": "Recommended"
+  },
+  {
+   "id": "686002042bf2",
+   "drug": "Trastuzumab biosimilar 150 mg",
+   "company": "Example Biologics C",
+   "date": "2026-04-02",
+   "decision": "Recommended"
+  },
+  {
+   "id": "22bede7f2053",
+   "drug": "Silodosin 8 mg",
+   "company": "Example Pharma D",
+   "date": "2026-04-02",
+   "decision": "Not recommended"
+  },
+  {
+   "id": "1c873f95e8f5",
+   "drug": "Tirzepatide injection",
+   "company": "Example Pharma F",
+   "date": "2026-05-11",
+   "decision": "Recommended"
+  },
+  {
+   "id": "254a47a729ef",
+   "drug": "Mirabegron ER 50 mg",
+   "company": "Example Pharma G",
+   "date": "2026-05",
+   "decision": "Recommended"
+  },
+  {
+   "id": "12e368055d4e",
+   "drug": "Pembrolizumab 100 mg/4 mL",
+   "company": "Example Biologics C",
+   "date": "2026-05-20",
+   "decision": "Additional data requested"
+  }
+ ]
+}

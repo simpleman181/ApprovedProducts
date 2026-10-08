@@ -1,0 +1,4 @@
+{
+  "note": "Names (INN or brand) to flag when a NEW record appears. Synonyms in data/synonyms.json apply automatically.",
+  "terms": ["semaglutide", "tadalafil", "dapoxetine"]
+}
