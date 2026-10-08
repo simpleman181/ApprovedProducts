@@ -1,80 +1,579 @@
 {
- "generatedAt": "2026-10-08T04:10:55+00:00",
- "newCount": 7,
+ "generatedAt": "2026-10-08T06:39:55+00:00",
+ "newCount": 80,
  "watchlistHits": [
   {
-   "id": "81a61a5ff9e8",
-   "drug": "SEMAGLUTIDE INJECTION 2.4 mg",
-   "company": "Example Pharma A",
-   "date": "2026-03-14",
-   "decision": "Additional data requested",
-   "sourceUrl": "https://cdscoonline.gov.in/docs/sec_14032026.pdf",
+   "id": "9218f2b7a499",
+   "drug": "Semaglutide Injection",
+   "company": "",
+   "date": "2026",
+   "decision": "Other",
+   "sourceUrl": "https://cdscoonline.gov.in/CDSCO/loadRecentApprovals?searchText=Semaglutide+Injection&year=&month=&drugTypeValue=",
    "matched": [
     "semaglutide"
-   ]
-  },
-  {
-   "id": "bc2c8ac1601d",
-   "drug": "Tadalafil + Dapoxetine tablets",
-   "company": "Example Pharma B",
-   "date": "2026-03-14",
-   "decision": "Recommended",
-   "sourceUrl": "https://cdscoonline.gov.in/docs/sec_14032026_b.pdf",
-   "matched": [
-    "dapoxetine",
-    "tadalafil"
    ]
   }
  ],
  "newRecords": [
   {
-   "id": "81a61a5ff9e8",
-   "drug": "SEMAGLUTIDE INJECTION 2.4 mg",
-   "company": "Example Pharma A",
-   "date": "2026-03-14",
-   "decision": "Additional data requested"
+   "id": "8b698b5dfa65",
+   "drug": "Gadobutrol",
+   "company": "",
+   "date": "2026",
+   "decision": "Other"
   },
   {
-   "id": "bc2c8ac1601d",
-   "drug": "Tadalafil + Dapoxetine tablets",
-   "company": "Example Pharma B",
-   "date": "2026-03-14",
-   "decision": "Recommended"
+   "id": "611abd5b7987",
+   "drug": "Avibactam Sodium Sterile",
+   "company": "",
+   "date": "2026",
+   "decision": "Other"
   },
   {
-   "id": "686002042bf2",
-   "drug": "Trastuzumab biosimilar 150 mg",
-   "company": "Example Biologics C",
-   "date": "2026-04-02",
-   "decision": "Recommended"
+   "id": "310c489b1567",
+   "drug": "Hydrogen Peroxide Based Disinfectant Wipes",
+   "company": "",
+   "date": "2026",
+   "decision": "Other"
   },
   {
-   "id": "22bede7f2053",
-   "drug": "Silodosin 8 mg",
-   "company": "Example Pharma D",
-   "date": "2026-04-02",
-   "decision": "Not recommended"
+   "id": "f7110088acc9",
+   "drug": "Cenobamate",
+   "company": "",
+   "date": "2026",
+   "decision": "Other"
   },
   {
-   "id": "1c873f95e8f5",
-   "drug": "Tirzepatide injection",
-   "company": "Example Pharma F",
-   "date": "2026-05-11",
-   "decision": "Recommended"
+   "id": "034f449ab82f",
+   "drug": "Vonoprazan",
+   "company": "",
+   "date": "2026",
+   "decision": "Other"
   },
   {
-   "id": "254a47a729ef",
-   "drug": "Mirabegron ER 50 mg",
-   "company": "Example Pharma G",
-   "date": "2026-05",
-   "decision": "Recommended"
+   "id": "988de38f0f9b",
+   "drug": "Ribociclib Film-Coated Tablet 200 Mg",
+   "company": "",
+   "date": "2026",
+   "decision": "Other"
   },
   {
-   "id": "12e368055d4e",
-   "drug": "Pembrolizumab 100 mg/4 mL",
-   "company": "Example Biologics C",
-   "date": "2026-05-20",
-   "decision": "Additional data requested"
+   "id": "553addd5dff6",
+   "drug": "Tyrosine U.S.P.",
+   "company": "",
+   "date": "2026",
+   "decision": "Other"
+  },
+  {
+   "id": "ca4aef3f3f3b",
+   "drug": "Miglustat Capsules",
+   "company": "",
+   "date": "2026",
+   "decision": "Other"
+  },
+  {
+   "id": "78d8b2485ea0",
+   "drug": "Hexavalent Vaccine [Diphtheria, Tetanus, Pertussis (Whole Cell), Hepatitis-B (Rdna), Reduced Poliomyelitis (Inactivated) And Haemophilus Influenzae Type B Conjugate Vaccine (Adsorbed)]",
+   "company": "",
+   "date": "2026",
+   "decision": "Other"
+  },
+  {
+   "id": "0f7da6fff8f4",
+   "drug": "Tegoprazan Tablet 50 Mg",
+   "company": "",
+   "date": "2026",
+   "decision": "Other"
+  },
+  {
+   "id": "e5a3484cdda4",
+   "drug": "Toripalimab",
+   "company": "",
+   "date": "2026",
+   "decision": "Other"
+  },
+  {
+   "id": "aecd6037819a",
+   "drug": "Naproxen Sodium U.S.P., E.P.",
+   "company": "",
+   "date": "2026",
+   "decision": "Other"
+  },
+  {
+   "id": "5aa40898956f",
+   "drug": "Tegoprazan Bulk Drug",
+   "company": "",
+   "date": "2026",
+   "decision": "Other"
+  },
+  {
+   "id": "c33fef818643",
+   "drug": "Gefapixant Citrate",
+   "company": "",
+   "date": "2026",
+   "decision": "Other"
+  },
+  {
+   "id": "93640441b3b1",
+   "drug": "Daptomycin",
+   "company": "",
+   "date": "2026",
+   "decision": "Other"
+  },
+  {
+   "id": "c514a0e2c62b",
+   "drug": "Miglustat",
+   "company": "",
+   "date": "2026",
+   "decision": "Other"
+  },
+  {
+   "id": "25f73779a6cd",
+   "drug": "Gefapixant Tablets 45 Mg",
+   "company": "",
+   "date": "2026",
+   "decision": "Other"
+  },
+  {
+   "id": "4ffc584a851d",
+   "drug": "Inactivated Rabies Virus Drug Substance",
+   "company": "",
+   "date": "2026",
+   "decision": "Other"
+  },
+  {
+   "id": "20a0f9bfd034",
+   "drug": "Metformin Hydrochloride 500 Mg (Sustained Release) + Myo-Inositol 600 Mg Tablets",
+   "company": "",
+   "date": "2026",
+   "decision": "Other"
+  },
+  {
+   "id": "d7211e83ef2f",
+   "drug": "Metformin Hydrochloride + Myo-Inositol",
+   "company": "",
+   "date": "2026",
+   "decision": "Other"
+  },
+  {
+   "id": "78987f2e5fe6",
+   "drug": "Levetiracetam",
+   "company": "",
+   "date": "2026",
+   "decision": "Other"
+  },
+  {
+   "id": "d0967744e4a2",
+   "drug": "Micafungin Sodium",
+   "company": "",
+   "date": "2026",
+   "decision": "Other"
+  },
+  {
+   "id": "cb1d6e94d905",
+   "drug": "Sitagliptin Phosphate Ip/Usp",
+   "company": "",
+   "date": "2026",
+   "decision": "Other"
+  },
+  {
+   "id": "758bc42e16ed",
+   "drug": "Durvalumab Solution For Infusion 500 Mg/ 10 Ml & 120 Mg/ 2.4 Ml",
+   "company": "",
+   "date": "2026",
+   "decision": "Other"
+  },
+  {
+   "id": "a4fdba3fc27c",
+   "drug": "Colchicine Tablet Ip 0.5 Mg",
+   "company": "",
+   "date": "2026",
+   "decision": "Other"
+  },
+  {
+   "id": "716f5ecb6493",
+   "drug": "Iodixanol",
+   "company": "",
+   "date": "2026",
+   "decision": "Other"
+  },
+  {
+   "id": "bc8b71daaf2f",
+   "drug": "D,L-Alpha Ketoisoleucine Calcium 98.5 % Min",
+   "company": "",
+   "date": "2026",
+   "decision": "Other"
+  },
+  {
+   "id": "7c9646421c10",
+   "drug": "Leucine Usp",
+   "company": "",
+   "date": "2026",
+   "decision": "Other"
+  },
+  {
+   "id": "2d1c86b1ea63",
+   "drug": "Daratumumab Solution For Injection 1800 Mg",
+   "company": "",
+   "date": "2026",
+   "decision": "Other"
+  },
+  {
+   "id": "2d02bcf164ca",
+   "drug": "Dydrogesterone Sustained Release Tablets",
+   "company": "",
+   "date": "2026",
+   "decision": "Other"
+  },
+  {
+   "id": "30d1de4e54c5",
+   "drug": "Mirabegron Extended Release Tablets",
+   "company": "",
+   "date": "2026",
+   "decision": "Other"
+  },
+  {
+   "id": "0fa10bbb9e92",
+   "drug": "Mirabegron 25/50 Mg Prolonged Release Tablets + Tamsulosin Hydrochloride 0.4/0.2 Mg",
+   "company": "",
+   "date": "2026",
+   "decision": "Other"
+  },
+  {
+   "id": "54bc7defcc5d",
+   "drug": "Bisoprolol Fumarate 2.5 Mg/5 Mg + Cilnidipine 10 Mg/10 Mg Tablets + Telmisartan 40 Mg /40 Mg",
+   "company": "",
+   "date": "2026",
+   "decision": "Other"
+  },
+  {
+   "id": "773ff03d591a",
+   "drug": "Acebrophylline 100 Mg + Erdosteine 300 Mg Tablets",
+   "company": "",
+   "date": "2026",
+   "decision": "Other"
+  },
+  {
+   "id": "c35652540c7e",
+   "drug": "Glycopyrronium (50 Mcg) + Indacaterol Acetate (150 Mcg) + Mometasone Furoate (160 Mcg)",
+   "company": "",
+   "date": "2026",
+   "decision": "Other"
+  },
+  {
+   "id": "330b14bd25b7",
+   "drug": "Edoxaban Tosylate Monohydrate",
+   "company": "",
+   "date": "2026",
+   "decision": "Other"
+  },
+  {
+   "id": "8d899d6d7fa1",
+   "drug": "Pneumococcal Polysaccharide Conjugate Vaccine (Adsorbed) Ip, 11-Valent",
+   "company": "",
+   "date": "2026",
+   "decision": "Other"
+  },
+  {
+   "id": "e7fff9f34128",
+   "drug": "Pegfilgrastim",
+   "company": "",
+   "date": "2026",
+   "decision": "Other"
+  },
+  {
+   "id": "2157918560bb",
+   "drug": "Aflibercept Solution For Intravitreal Injection",
+   "company": "",
+   "date": "2026",
+   "decision": "Other"
+  },
+  {
+   "id": "3cde3cacc102",
+   "drug": "Revefenacin Inhalation Solution 175 Mcg/3 Ml",
+   "company": "",
+   "date": "2026",
+   "decision": "Other"
+  },
+  {
+   "id": "2f5d7f1dd019",
+   "drug": "Revefenacin",
+   "company": "",
+   "date": "2026",
+   "decision": "Other"
+  },
+  {
+   "id": "20b4c525c06a",
+   "drug": "Cenobamate Tablets 12.5mg, 25mg, 50mg, 100mg, 150mg And 200mg",
+   "company": "",
+   "date": "2026",
+   "decision": "Other"
+  },
+  {
+   "id": "f4c6069790fc",
+   "drug": "Cenobamate-Bulk Drug",
+   "company": "",
+   "date": "2026",
+   "decision": "Other"
+  },
+  {
+   "id": "be04d8c98bcf",
+   "drug": "Tapinarof",
+   "company": "",
+   "date": "2026",
+   "decision": "Other"
+  },
+  {
+   "id": "52b9bfb18465",
+   "drug": "Gabapentin Extended Release Tablets 300 Mg",
+   "company": "",
+   "date": "2026",
+   "decision": "Other"
+  },
+  {
+   "id": "a139596a5da9",
+   "drug": "Cefepime For Injection + Zidebactam",
+   "company": "",
+   "date": "2026",
+   "decision": "Other"
+  },
+  {
+   "id": "14d54df9a249",
+   "drug": "Mecobalamine 1500mcg + Nortriptyline 10mg + Pregabalin (Sr) 75mg",
+   "company": "",
+   "date": "2026",
+   "decision": "Other"
+  },
+  {
+   "id": "34de8a5e8aa3",
+   "drug": "Imeglimin Hydrochloride Tablets 500 Mg / 1000 Mg",
+   "company": "",
+   "date": "2026",
+   "decision": "Other"
+  },
+  {
+   "id": "423ada6d8b36",
+   "drug": "Saccharomyces Boulardii Cncm I-745 250 Mg/8 Ml Powder And Solvent For Oral Suspension",
+   "company": "",
+   "date": "2026",
+   "decision": "Other"
+  },
+  {
+   "id": "d4cdf106518c",
+   "drug": "Abatacept",
+   "company": "",
+   "date": "2026",
+   "decision": "Other"
+  },
+  {
+   "id": "ab7a978a21d3",
+   "drug": "Fluticasone Propionate + Formoterol Fumarate Dihydrate + Glycopyrronium",
+   "company": "",
+   "date": "2026",
+   "decision": "Other"
+  },
+  {
+   "id": "57dab96f7563",
+   "drug": "Remibrutinib Film Coated Tablets 25 Mg",
+   "company": "",
+   "date": "2026",
+   "decision": "Other"
+  },
+  {
+   "id": "9145a06f21db",
+   "drug": "Dexmedetomidine Hydrochloride Solution For Infusion",
+   "company": "",
+   "date": "2026",
+   "decision": "Other"
+  },
+  {
+   "id": "7cf264d20619",
+   "drug": "Belzutifan Tablets",
+   "company": "",
+   "date": "2026",
+   "decision": "Other"
+  },
+  {
+   "id": "18e4ddc2ce9c",
+   "drug": "Trastuzumab Lyophilized Powder For Concentrate For Solution For Infusion 440 Mg Vial",
+   "company": "",
+   "date": "2026",
+   "decision": "Other"
+  },
+  {
+   "id": "d278d9cf79e4",
+   "drug": "Paracetamol Injection 1000mg / 4ml",
+   "company": "",
+   "date": "2026",
+   "decision": "Other"
+  },
+  {
+   "id": "8b5189312901",
+   "drug": "Biphasic Isophane Insulin Injection Ip",
+   "company": "",
+   "date": "2026",
+   "decision": "Other"
+  },
+  {
+   "id": "d78454877f57",
+   "drug": ".Vonoprazan Tablets 20mg, + Amoxicillin Capsules Ip 500mg And + Clarithromycin Tablets Ip 500mg Co Pack.",
+   "company": "",
+   "date": "2026",
+   "decision": "Other"
+  },
+  {
+   "id": "b81449bdbe9e",
+   "drug": "Dapagliflozin + Extended Release Metformin Hydrochloride + Glimepiride",
+   "company": "",
+   "date": "2026",
+   "decision": "Other"
+  },
+  {
+   "id": "644478ccc808",
+   "drug": "Sucralfate Suspension",
+   "company": "",
+   "date": "2026",
+   "decision": "Other"
+  },
+  {
+   "id": "17b328399af8",
+   "drug": "Lutetium Lu 177 Vipivotide Tetraxetan Solution For Injection Or Infusion 1000 Mbq/Ml",
+   "company": "",
+   "date": "2026",
+   "decision": "Other"
+  },
+  {
+   "id": "71e0e73b7282",
+   "drug": "Pembrolizumab Injection 100mg/4ml",
+   "company": "",
+   "date": "2026",
+   "decision": "Other"
+  },
+  {
+   "id": "9218f2b7a499",
+   "drug": "Semaglutide Injection",
+   "company": "",
+   "date": "2026",
+   "decision": "Other"
+  },
+  {
+   "id": "2e16f668aa0c",
+   "drug": "Vigabatrin Tablets Usp 500 Mg",
+   "company": "",
+   "date": "2026",
+   "decision": "Other"
+  },
+  {
+   "id": "d2dceb9964f7",
+   "drug": "Vonoprazan Tablets",
+   "company": "",
+   "date": "2026",
+   "decision": "Other"
+  },
+  {
+   "id": "3baa9ba57a6d",
+   "drug": "Cholecalciferol Oral Drops",
+   "company": "",
+   "date": "2026",
+   "decision": "Other"
+  },
+  {
+   "id": "b47d39a644d2",
+   "drug": "Vonoprazan Fumarate",
+   "company": "",
+   "date": "2026",
+   "decision": "Other"
+  },
+  {
+   "id": "b3fc2de32dc6",
+   "drug": "Hepatitis B Surface Antigen (Aqueous) Concentrate Bulk",
+   "company": "",
+   "date": "2026",
+   "decision": "Other"
+  },
+  {
+   "id": "06ef66304bbd",
+   "drug": "Colistimethate Sodium",
+   "company": "",
+   "date": "2026",
+   "decision": "Other"
+  },
+  {
+   "id": "4c18a2ab08a7",
+   "drug": "Cetuximab Injection 5mg/Ml (Solution For Infusion)",
+   "company": "",
+   "date": "2026",
+   "decision": "Other"
+  },
+  {
+   "id": "1285a2dcb5c4",
+   "drug": "Tapinarof Cream",
+   "company": "",
+   "date": "2026",
+   "decision": "Other"
+  },
+  {
+   "id": "78ee10ef2d37",
+   "drug": "Tapinarof - Bulk Drug",
+   "company": "",
+   "date": "2026",
+   "decision": "Other"
+  },
+  {
+   "id": "0d61f8a901b1",
+   "drug": "Brexpiprazole Tablets",
+   "company": "",
+   "date": "2026",
+   "decision": "Other"
+  },
+  {
+   "id": "a2b9acce6686",
+   "drug": "Olutasidenib Capsules 150mg",
+   "company": "",
+   "date": "2026",
+   "decision": "Other"
+  },
+  {
+   "id": "a177858968b0",
+   "drug": "Cenobamate Tablets",
+   "company": "",
+   "date": "2026",
+   "decision": "Other"
+  },
+  {
+   "id": "cfcadd3521f6",
+   "drug": "Dupilumab",
+   "company": "",
+   "date": "2026",
+   "decision": "Other"
+  },
+  {
+   "id": "727202ff6485",
+   "drug": "Nano Carrier Entrapped Vitamin D3 Oral Dispersion 60000 Iu",
+   "company": "",
+   "date": "2026",
+   "decision": "Other"
+  },
+  {
+   "id": "c959e55524ff",
+   "drug": "Zinc Acetate Oral Drops",
+   "company": "",
+   "date": "2026",
+   "decision": "Other"
+  },
+  {
+   "id": "e743c6798ace",
+   "drug": "Gabapentin",
+   "company": "",
+   "date": "2026",
+   "decision": "Other"
+  },
+  {
+   "id": "b7a191020ab5",
+   "drug": "Biphasic Isophane Insulin Injection Ip (50/50 Biphasic), 100 Iu/Ml, 10 Ml Vials",
+   "company": "",
+   "date": "2026",
+   "decision": "Other"
   }
  ]
 }

@@ -1,136 +1,1644 @@
 {
  "meta": {
   "version": 1,
-  "generatedAt": "2026-10-08T04:10:55+00:00",
-  "count": 7,
-  "sample": true
+  "generatedAt": "2026-10-08T06:39:55+00:00",
+  "count": 80,
+  "sample": false
  },
  "records": [
   {
-   "drug": "Pembrolizumab 100 mg/4 mL",
-   "company": "Example Biologics C",
-   "date": "2026-05-20",
+   "drug": "Zinc Acetate Oral Drops",
+   "company": "",
+   "date": "2026",
    "year": 2026,
-   "month": 5,
-   "indication": "Non-small cell lung cancer (NSCLC)",
-   "recommendation": "Additional data requested",
-   "decision": "Additional data requested",
-   "therapy": [
-    "Oncology"
-   ],
-   "drugType": "Biologic / biosimilar",
-   "sourceUrl": "https://cdscoonline.gov.in/CDSCO/loadDrugApprovals?searchText=Pembrolizumab+100+mg%2F4+mL&year=2026&month=5&drugTypeValue=",
+   "month": null,
+   "indication": "In Treatment Of Acute Diarrhoea In Children As An Adjunct To Oral Rehydration",
+   "recommendation": "",
+   "decision": "Other",
+   "therapy": [],
+   "drugType": "Unspecified",
+   "sourceUrl": "https://cdscoonline.gov.in/CDSCO/loadRecentApprovals?searchText=Zinc+Acetate+Oral+Drops&year=&month=&drugTypeValue=",
    "linkKind": "listing",
-   "id": "12e368055d4e",
+   "quality": [
+    "no_company"
+   ],
+   "id": "c959e55524ff",
    "firstSeen": "2026-10-08"
   },
   {
-   "drug": "Tirzepatide injection",
-   "company": "Example Pharma F",
-   "date": "2026-05-11",
+   "drug": "Vonoprazan Tablets",
+   "company": "",
+   "date": "2026",
    "year": 2026,
-   "month": 5,
-   "indication": "Type 2 diabetes mellitus",
-   "recommendation": "Approved",
-   "decision": "Recommended",
+   "month": null,
+   "indication": "? Treatment Of Reflux Esophagitis(Re) ? Treatment Of Gastric Ulcer (Gu) ? Treatment Of Duodenal Ulcer(Du) ? Prevention Of Recurrence Of Gastric Ulcer Or Duodenal Ulcer During Low Dose Aspirin Administration. ? Prevention Of Recurrence Of Gastric Ulcer Or Duodenal Ulcer During Nsaids Administration. ? Adjunct To Helicobacter Pylori Eradication Associated With: Gastric Ulcer, Duodenal Ulcer, Gastric Malt Lymphoma, Idiopathic Thrombocytopenic Purpura, The Stomach After Endoscopic Resection Of Early-Stage Cancer, Or Helicobacter Pylori Gastritis.",
+   "recommendation": "",
+   "decision": "Other",
+   "therapy": [
+    "Oncology",
+    "Cardiovascular",
+    "Gastroenterology"
+   ],
+   "drugType": "Unspecified",
+   "sourceUrl": "https://cdscoonline.gov.in/CDSCO/loadRecentApprovals?searchText=Vonoprazan+Tablets&year=&month=&drugTypeValue=",
+   "linkKind": "listing",
+   "quality": [
+    "no_company"
+   ],
+   "id": "d2dceb9964f7",
+   "firstSeen": "2026-10-08"
+  },
+  {
+   "drug": "Vonoprazan Fumarate",
+   "company": "",
+   "date": "2026",
+   "year": 2026,
+   "month": null,
+   "indication": "NA",
+   "recommendation": "",
+   "decision": "Other",
+   "therapy": [],
+   "drugType": "Unspecified",
+   "sourceUrl": "https://cdscoonline.gov.in/CDSCO/loadRecentApprovals?searchText=Vonoprazan+Fumarate&year=&month=&drugTypeValue=",
+   "linkKind": "listing",
+   "quality": [
+    "no_company"
+   ],
+   "id": "b47d39a644d2",
+   "firstSeen": "2026-10-08"
+  },
+  {
+   "drug": "Vonoprazan",
+   "company": "",
+   "date": "2026",
+   "year": 2026,
+   "month": null,
+   "indication": "? Treatment Of Reflux Esophagitis(Re) ? Treatment Of Gastric Ulcer (Gu) ? Treatment Of Duodenal Ulcer(Du) ? Prevention Of Recurrence Of Gastric Ulcer Or Duodenal Ulcer During Low Dose Aspirin Administration. ? Prevention Of Recurrence Of Gastric Ulcer Or Duodenal Ulcer During Nsaids Administration. ? Adjunct To Helicobacter Pylori Eradication Associated With: Gastric Ulcer, Duodenal Ulcer, Gastric Malt Lymphoma, Idiopathic Thrombocytopenic Purpura, The Stomach After Endoscopic Resection Of Early-Stage Cancer, Or Helicobacter Pylori Gastritis.",
+   "recommendation": "",
+   "decision": "Other",
+   "therapy": [
+    "Oncology",
+    "Cardiovascular",
+    "Gastroenterology"
+   ],
+   "drugType": "Unspecified",
+   "sourceUrl": "https://cdscoonline.gov.in/CDSCO/loadRecentApprovals?searchText=Vonoprazan&year=&month=&drugTypeValue=",
+   "linkKind": "listing",
+   "quality": [
+    "no_company"
+   ],
+   "id": "034f449ab82f",
+   "firstSeen": "2026-10-08"
+  },
+  {
+   "drug": "Vigabatrin Tablets Usp 500 Mg",
+   "company": "",
+   "date": "2026",
+   "year": 2026,
+   "month": null,
+   "indication": "Vigabatrin Tablets Are Indicated For Treatment Of Refractory Complex Partial Seizures As Adjunctive Therapy In Patients 6 Years Of Age And Older Who Have Responded Inadequately To Several Alternative Treatments. Vigabatrin Tablets Usp 500mg Is Not Indicated As A First-Line Agent.",
+   "recommendation": "",
+   "decision": "Other",
+   "therapy": [
+    "Neurology"
+   ],
+   "drugType": "Unspecified",
+   "sourceUrl": "https://cdscoonline.gov.in/CDSCO/loadRecentApprovals?searchText=Vigabatrin+Tablets+Usp+500+Mg&year=&month=&drugTypeValue=",
+   "linkKind": "listing",
+   "quality": [
+    "no_company"
+   ],
+   "id": "2e16f668aa0c",
+   "firstSeen": "2026-10-08"
+  },
+  {
+   "drug": "Tyrosine U.S.P.",
+   "company": "",
+   "date": "2026",
+   "year": 2026,
+   "month": null,
+   "indication": "NA",
+   "recommendation": "",
+   "decision": "Other",
+   "therapy": [],
+   "drugType": "Unspecified",
+   "sourceUrl": "https://cdscoonline.gov.in/CDSCO/loadRecentApprovals?searchText=Tyrosine+U.S.P.&year=&month=&drugTypeValue=",
+   "linkKind": "listing",
+   "quality": [
+    "no_company"
+   ],
+   "id": "553addd5dff6",
+   "firstSeen": "2026-10-08"
+  },
+  {
+   "drug": "Trastuzumab Lyophilized Powder For Concentrate For Solution For Infusion 440 Mg Vial",
+   "company": "",
+   "date": "2026",
+   "year": 2026,
+   "month": null,
+   "indication": "Refer Annexure",
+   "recommendation": "",
+   "decision": "Other",
+   "therapy": [],
+   "drugType": "Unspecified",
+   "sourceUrl": "https://cdscoonline.gov.in/CDSCO/loadRecentApprovals?searchText=Trastuzumab+Lyophilized+Powder+For+Concentrate+For+Solution+For+Infusion+440+Mg+Vial&year=&month=&drugTypeValue=",
+   "linkKind": "listing",
+   "quality": [
+    "no_company"
+   ],
+   "id": "18e4ddc2ce9c",
+   "firstSeen": "2026-10-08"
+  },
+  {
+   "drug": "Toripalimab",
+   "company": "",
+   "date": "2026",
+   "year": 2026,
+   "month": null,
+   "indication": "Toripalimab Injection In Combination With Cisplatin And Paclitaxel, Is Indicated For The First-Line Treatment Of Adult Patients With Unresectable Advanced, Recurrent, Or Metastatic Esophageal Squamous Cell Carcinoma (Escc).",
+   "recommendation": "",
+   "decision": "Other",
+   "therapy": [
+    "Oncology"
+   ],
+   "drugType": "Unspecified",
+   "sourceUrl": "https://cdscoonline.gov.in/CDSCO/loadRecentApprovals?searchText=Toripalimab&year=&month=&drugTypeValue=",
+   "linkKind": "listing",
+   "quality": [
+    "no_company"
+   ],
+   "id": "e5a3484cdda4",
+   "firstSeen": "2026-10-08"
+  },
+  {
+   "drug": "Tegoprazan Tablet 50 Mg",
+   "company": "",
+   "date": "2026",
+   "year": 2026,
+   "month": null,
+   "indication": "Tegoprazan Tablet 50mg Is Indicated For Erosive Gastroesophageal Reflux Disease, Non-Erosive Gastroesophageal Reflux Disease, Gastric Ulcer",
+   "recommendation": "",
+   "decision": "Other",
+   "therapy": [
+    "Gastroenterology"
+   ],
+   "drugType": "Unspecified",
+   "sourceUrl": "https://cdscoonline.gov.in/CDSCO/loadRecentApprovals?searchText=Tegoprazan+Tablet+50+Mg&year=&month=&drugTypeValue=",
+   "linkKind": "listing",
+   "quality": [
+    "no_company"
+   ],
+   "id": "0f7da6fff8f4",
+   "firstSeen": "2026-10-08"
+  },
+  {
+   "drug": "Tegoprazan Bulk Drug",
+   "company": "",
+   "date": "2026",
+   "year": 2026,
+   "month": null,
+   "indication": "NA",
+   "recommendation": "",
+   "decision": "Other",
+   "therapy": [],
+   "drugType": "Unspecified",
+   "sourceUrl": "https://cdscoonline.gov.in/CDSCO/loadRecentApprovals?searchText=Tegoprazan+Bulk+Drug&year=&month=&drugTypeValue=",
+   "linkKind": "listing",
+   "quality": [
+    "no_company"
+   ],
+   "id": "5aa40898956f",
+   "firstSeen": "2026-10-08"
+  },
+  {
+   "drug": "Tapinarof Cream",
+   "company": "",
+   "date": "2026",
+   "year": 2026,
+   "month": null,
+   "indication": "Indicated For The Topical Treatment Of Plaque Psoriasis In Adults",
+   "recommendation": "",
+   "decision": "Other",
+   "therapy": [
+    "Dermatology"
+   ],
+   "drugType": "Unspecified",
+   "sourceUrl": "https://cdscoonline.gov.in/CDSCO/loadRecentApprovals?searchText=Tapinarof+Cream&year=&month=&drugTypeValue=",
+   "linkKind": "listing",
+   "quality": [
+    "no_company"
+   ],
+   "id": "1285a2dcb5c4",
+   "firstSeen": "2026-10-08"
+  },
+  {
+   "drug": "Tapinarof - Bulk Drug",
+   "company": "",
+   "date": "2026",
+   "year": 2026,
+   "month": null,
+   "indication": "NA",
+   "recommendation": "",
+   "decision": "Other",
+   "therapy": [],
+   "drugType": "Unspecified",
+   "sourceUrl": "https://cdscoonline.gov.in/CDSCO/loadRecentApprovals?searchText=Tapinarof+-+Bulk+Drug&year=&month=&drugTypeValue=",
+   "linkKind": "listing",
+   "quality": [
+    "no_company"
+   ],
+   "id": "78ee10ef2d37",
+   "firstSeen": "2026-10-08"
+  },
+  {
+   "drug": "Tapinarof",
+   "company": "",
+   "date": "2026",
+   "year": 2026,
+   "month": null,
+   "indication": "NA",
+   "recommendation": "",
+   "decision": "Other",
+   "therapy": [],
+   "drugType": "Unspecified",
+   "sourceUrl": "https://cdscoonline.gov.in/CDSCO/loadRecentApprovals?searchText=Tapinarof&year=&month=&drugTypeValue=",
+   "linkKind": "listing",
+   "quality": [
+    "no_company"
+   ],
+   "id": "be04d8c98bcf",
+   "firstSeen": "2026-10-08"
+  },
+  {
+   "drug": "Sucralfate Suspension",
+   "company": "",
+   "date": "2026",
+   "year": 2026,
+   "month": null,
+   "indication": "For The Treatment Of Gastric Duodenal And Benign Ulcer",
+   "recommendation": "",
+   "decision": "Other",
+   "therapy": [
+    "Gastroenterology"
+   ],
+   "drugType": "Unspecified",
+   "sourceUrl": "https://cdscoonline.gov.in/CDSCO/loadRecentApprovals?searchText=Sucralfate+Suspension&year=&month=&drugTypeValue=",
+   "linkKind": "listing",
+   "quality": [
+    "no_company"
+   ],
+   "id": "644478ccc808",
+   "firstSeen": "2026-10-08"
+  },
+  {
+   "drug": "Sitagliptin Phosphate Ip/Usp",
+   "company": "",
+   "date": "2026",
+   "year": 2026,
+   "month": null,
+   "indication": "NA",
+   "recommendation": "",
+   "decision": "Other",
    "therapy": [
     "Diabetes & Endocrine"
    ],
-   "drugType": "New drug",
-   "sourceUrl": "https://cdscoonline.gov.in/CDSCO/loadDrugApprovals?searchText=Tirzepatide+injection&year=2026&month=5&drugTypeValue=",
+   "drugType": "Unspecified",
+   "sourceUrl": "https://cdscoonline.gov.in/CDSCO/loadRecentApprovals?searchText=Sitagliptin+Phosphate+Ip%2FUsp&year=&month=&drugTypeValue=",
    "linkKind": "listing",
-   "id": "1c873f95e8f5",
-   "firstSeen": "2026-10-08"
-  },
-  {
-   "drug": "Mirabegron ER 50 mg",
-   "company": "Example Pharma G",
-   "date": "2026-05",
-   "year": 2026,
-   "month": 5,
-   "indication": "Overactive bladder",
-   "recommendation": "Recommended for import and marketing",
-   "decision": "Recommended",
-   "therapy": [
-    "Urology & Nephrology"
+   "quality": [
+    "no_company"
    ],
-   "drugType": "New drug",
-   "sourceUrl": "https://cdscoonline.gov.in/CDSCO/loadDrugApprovals?searchText=Mirabegron+ER+50+mg&year=2026&month=5&drugTypeValue=",
-   "linkKind": "listing",
-   "id": "254a47a729ef",
+   "id": "cb1d6e94d905",
    "firstSeen": "2026-10-08"
   },
   {
-   "drug": "Trastuzumab biosimilar 150 mg",
-   "company": "Example Biologics C",
-   "date": "2026-04-02",
+   "drug": "Semaglutide Injection",
+   "company": "",
+   "date": "2026",
    "year": 2026,
-   "month": 4,
-   "indication": "HER2-positive metastatic breast cancer",
-   "recommendation": "Recommended for approval.",
-   "decision": "Recommended",
+   "month": null,
+   "indication": "Semaglutide Is Indicated For The Treatment Of Adults With Insufficiently Controlled Type 2 Diabetes Mellitus As An Adjunct To Diet And Exercise ? As Monotherapy, When Metformin Is Considered Inappropriate Due To Intolerance Or Contraindications. ? In Addition To Other Medicinal Products For The Treatment Of Diabetes.",
+   "recommendation": "",
+   "decision": "Other",
+   "therapy": [
+    "Diabetes & Endocrine"
+   ],
+   "drugType": "Unspecified",
+   "sourceUrl": "https://cdscoonline.gov.in/CDSCO/loadRecentApprovals?searchText=Semaglutide+Injection&year=&month=&drugTypeValue=",
+   "linkKind": "listing",
+   "quality": [
+    "no_company"
+   ],
+   "id": "9218f2b7a499",
+   "firstSeen": "2026-10-08"
+  },
+  {
+   "drug": "Saccharomyces Boulardii Cncm I-745 250 Mg/8 Ml Powder And Solvent For Oral Suspension",
+   "company": "",
+   "date": "2026",
+   "year": 2026,
+   "month": null,
+   "indication": "Treatment Of Acute Infectious Diarrhoea In Adults And Children. Prevention And Treatment Of Antibiotic Associated Colitis And Diarrhoea. In Addition To Vancomycin/Metronidazole-Treatment To Prevent Recurrence Of Clostridium Difficile Disease (Cdd). Supportive In The Treatment Of Diarrhoea Occurring In Irritable Bowel Syndrome (Ibs).",
+   "recommendation": "",
+   "decision": "Other",
+   "therapy": [
+    "Infectious Disease",
+    "Gastroenterology"
+   ],
+   "drugType": "Fixed-dose combination",
+   "sourceUrl": "https://cdscoonline.gov.in/CDSCO/loadRecentApprovals?searchText=Saccharomyces+Boulardii+Cncm+I-745+250+Mg%2F8+Ml+Powder+And+Solvent+For+Oral+Suspension&year=&month=&drugTypeValue=",
+   "linkKind": "listing",
+   "quality": [
+    "no_company"
+   ],
+   "id": "423ada6d8b36",
+   "firstSeen": "2026-10-08"
+  },
+  {
+   "drug": "Ribociclib Film-Coated Tablet 200 Mg",
+   "company": "",
+   "date": "2026",
+   "year": 2026,
+   "month": null,
+   "indication": "Ribociclib Is Indicated For The Treatment Of Women With Hormone Receptor (Hr) Positive, Human Epidermal Growth Factor Receptor 2 (Her2) Negative Locally Advanced Or Metastatic Breast Cancer In Combination With An Aromatase Inhibitor Or Fulvestrant As Initial Endocrine Based Therapy Or In Women Who Have Received Prior Endocrine Therapy,Ribociclib In Combination With An Aromatase Inhibitor Is Indicated For The Adjuvant Treatment Of Patients With Hormone Receptor (Hr)-Positive, Human Epidermal Growth Factor Receptor 2(Her2)-Negative Early Breast Cancer At High Risk Of Recurrence. In Pre-Or Perimenopausal Women, Or In Men, The Aromatase Inhibitor Should Be Combined With A Luteinizing Hormone-Releasing Hormone (Lhrh) Agonist.",
+   "recommendation": "",
+   "decision": "Other",
+   "therapy": [
+    "Oncology",
+    "Diabetes & Endocrine",
+    "Women's Health"
+   ],
+   "drugType": "Unspecified",
+   "sourceUrl": "https://cdscoonline.gov.in/CDSCO/loadRecentApprovals?searchText=Ribociclib+Film-Coated+Tablet+200+Mg&year=&month=&drugTypeValue=",
+   "linkKind": "listing",
+   "quality": [
+    "no_company"
+   ],
+   "id": "988de38f0f9b",
+   "firstSeen": "2026-10-08"
+  },
+  {
+   "drug": "Revefenacin Inhalation Solution 175 Mcg/3 Ml",
+   "company": "",
+   "date": "2026",
+   "year": 2026,
+   "month": null,
+   "indication": "Indicated For The Maintenance Treatment Of Patients With Chronic Obstructive Pulmonary Disease (Copd).",
+   "recommendation": "",
+   "decision": "Other",
+   "therapy": [
+    "Respiratory"
+   ],
+   "drugType": "Unspecified",
+   "sourceUrl": "https://cdscoonline.gov.in/CDSCO/loadRecentApprovals?searchText=Revefenacin+Inhalation+Solution+175+Mcg%2F3+Ml&year=&month=&drugTypeValue=",
+   "linkKind": "listing",
+   "quality": [
+    "no_company"
+   ],
+   "id": "3cde3cacc102",
+   "firstSeen": "2026-10-08"
+  },
+  {
+   "drug": "Revefenacin",
+   "company": "",
+   "date": "2026",
+   "year": 2026,
+   "month": null,
+   "indication": "NA",
+   "recommendation": "",
+   "decision": "Other",
+   "therapy": [],
+   "drugType": "Unspecified",
+   "sourceUrl": "https://cdscoonline.gov.in/CDSCO/loadRecentApprovals?searchText=Revefenacin&year=&month=&drugTypeValue=",
+   "linkKind": "listing",
+   "quality": [
+    "no_company"
+   ],
+   "id": "2f5d7f1dd019",
+   "firstSeen": "2026-10-08"
+  },
+  {
+   "drug": "Remibrutinib Film Coated Tablets 25 Mg",
+   "company": "",
+   "date": "2026",
+   "year": 2026,
+   "month": null,
+   "indication": "Remibrutinib Film-Coated Tablet Is Indicated For The Treatment Of Chronic Spontaneous Urticaria (Csu) In Adult Patients Who Remain Symptomatic Despite H1 Antihistaminic Treatment. Limitations Of Use: Remibrutinib Film-Coated Tablet Is Not Indicated For Other Forms Of Urticaria.",
+   "recommendation": "",
+   "decision": "Other",
+   "therapy": [
+    "Dermatology"
+   ],
+   "drugType": "Unspecified",
+   "sourceUrl": "https://cdscoonline.gov.in/CDSCO/loadRecentApprovals?searchText=Remibrutinib+Film+Coated+Tablets+25+Mg&year=&month=&drugTypeValue=",
+   "linkKind": "listing",
+   "quality": [
+    "no_company"
+   ],
+   "id": "57dab96f7563",
+   "firstSeen": "2026-10-08"
+  },
+  {
+   "drug": "Pneumococcal Polysaccharide Conjugate Vaccine (Adsorbed) Ip, 11-Valent",
+   "company": "",
+   "date": "2026",
+   "year": 2026,
+   "month": null,
+   "indication": "Nucovac®-11 Is Indicated For Active Immunization Against Invasive Disease Caused By Streptococcus Pneumoniae Serotypes 1, 5, 6a, 6b, 7f, 9v, 14, 18c, 19a, 19f And 23f In Children From 6 Weeks Of Age.",
+   "recommendation": "",
+   "decision": "Other",
+   "therapy": [
+    "Infectious Disease",
+    "Vaccines"
+   ],
+   "drugType": "Unspecified",
+   "sourceUrl": "https://cdscoonline.gov.in/CDSCO/loadRecentApprovals?searchText=Pneumococcal+Polysaccharide+Conjugate+Vaccine+%28Adsorbed%29+Ip%2C+11-Valent&year=&month=&drugTypeValue=",
+   "linkKind": "listing",
+   "quality": [
+    "no_company"
+   ],
+   "id": "8d899d6d7fa1",
+   "firstSeen": "2026-10-08"
+  },
+  {
+   "drug": "Pembrolizumab Injection 100mg/4ml",
+   "company": "",
+   "date": "2026",
+   "year": 2026,
+   "month": null,
+   "indication": "Pembrolizumab As Monotherapy Is Indicated For The Treatment Of Resectable Locally Advanced Head And Neck Squamous Cell Carcinoma As Neoadjuvant Treatment, Continued As Adjuvant Treatment In Combination With Radiation Therapy With Or Without Concomitant Cisplatin And Then As Monotherapy In Adults Whose Tumours Express Pd-L1 With A Cps ? 1.",
+   "recommendation": "",
+   "decision": "Other",
    "therapy": [
     "Oncology"
    ],
    "drugType": "Unspecified",
-   "sourceUrl": "https://cdscoonline.gov.in/CDSCO/loadDrugApprovals?searchText=Trastuzumab+biosimilar+150+mg&year=2026&month=3&drugTypeValue=",
+   "sourceUrl": "https://cdscoonline.gov.in/CDSCO/loadRecentApprovals?searchText=Pembrolizumab+Injection+100mg%2F4ml&year=&month=&drugTypeValue=",
    "linkKind": "listing",
-   "id": "686002042bf2",
+   "quality": [
+    "no_company"
+   ],
+   "id": "71e0e73b7282",
    "firstSeen": "2026-10-08"
   },
   {
-   "drug": "Silodosin 8 mg",
-   "company": "Example Pharma D",
-   "date": "2026-04-02",
+   "drug": "Pegfilgrastim",
+   "company": "",
+   "date": "2026",
    "year": 2026,
-   "month": 4,
-   "indication": "Benign prostatic hyperplasia",
-   "recommendation": "Not recommended; justification inadequate.",
-   "decision": "Not recommended",
+   "month": null,
+   "indication": "Patients With Cancer Receiving Myelosuppressive Chemotherapy,Patients Acutely Exposed To Myelosuppressive Doses Of Radiation",
+   "recommendation": "",
+   "decision": "Other",
    "therapy": [
-    "Urology & Nephrology"
+    "Oncology"
    ],
    "drugType": "Unspecified",
-   "sourceUrl": "https://cdscoonline.gov.in/CDSCO/loadDrugApprovals?searchText=Silodosin+8+mg&year=2026&month=3&drugTypeValue=",
+   "sourceUrl": "https://cdscoonline.gov.in/CDSCO/loadRecentApprovals?searchText=Pegfilgrastim&year=&month=&drugTypeValue=",
    "linkKind": "listing",
-   "id": "22bede7f2053",
+   "quality": [
+    "no_company"
+   ],
+   "id": "e7fff9f34128",
    "firstSeen": "2026-10-08"
   },
   {
-   "drug": "Tadalafil + Dapoxetine tablets",
-   "company": "Example Pharma B",
-   "date": "2026-03-14",
+   "drug": "Paracetamol Injection 1000mg / 4ml",
+   "company": "",
+   "date": "2026",
    "year": 2026,
-   "month": 3,
-   "indication": "Erectile dysfunction with premature ejaculation",
-   "recommendation": "The committee recommended grant of permission for the FDC subject to Phase IV protocol.",
-   "decision": "Recommended",
+   "month": null,
+   "indication": "For Management Of Post-Operative Pain in hospital setting only",
+   "recommendation": "",
+   "decision": "Other",
+   "therapy": [
+    "Pain & Anaesthesia"
+   ],
+   "drugType": "Unspecified",
+   "sourceUrl": "https://cdscoonline.gov.in/CDSCO/loadRecentApprovals?searchText=Paracetamol+Injection+1000mg+%2F+4ml&year=&month=&drugTypeValue=",
+   "linkKind": "listing",
+   "quality": [
+    "no_company"
+   ],
+   "id": "d278d9cf79e4",
+   "firstSeen": "2026-10-08"
+  },
+  {
+   "drug": "Olutasidenib Capsules 150mg",
+   "company": "",
+   "date": "2026",
+   "year": 2026,
+   "month": null,
+   "indication": "Treatment Of Adult Patients With Relapsed Or Refractory Acute Myeloid Leukemia (Aml) With A Susceptible Isocitrate Dehydrogenase-1 (Idh1) Mutation",
+   "recommendation": "",
+   "decision": "Other",
+   "therapy": [
+    "Oncology"
+   ],
+   "drugType": "Unspecified",
+   "sourceUrl": "https://cdscoonline.gov.in/CDSCO/loadRecentApprovals?searchText=Olutasidenib+Capsules+150mg&year=&month=&drugTypeValue=",
+   "linkKind": "listing",
+   "quality": [
+    "no_company"
+   ],
+   "id": "a2b9acce6686",
+   "firstSeen": "2026-10-08"
+  },
+  {
+   "drug": "Naproxen Sodium U.S.P., E.P.",
+   "company": "",
+   "date": "2026",
+   "year": 2026,
+   "month": null,
+   "indication": "NA",
+   "recommendation": "",
+   "decision": "Other",
+   "therapy": [],
+   "drugType": "Unspecified",
+   "sourceUrl": "https://cdscoonline.gov.in/CDSCO/loadRecentApprovals?searchText=Naproxen+Sodium+U.S.P.%2C+E.P.&year=&month=&drugTypeValue=",
+   "linkKind": "listing",
+   "quality": [
+    "no_company"
+   ],
+   "id": "aecd6037819a",
+   "firstSeen": "2026-10-08"
+  },
+  {
+   "drug": "Nano Carrier Entrapped Vitamin D3 Oral Dispersion 60000 Iu",
+   "company": "",
+   "date": "2026",
+   "year": 2026,
+   "month": null,
+   "indication": "For The Treatment Of Vitamin D Deficiency In Individuals Aged 12 Years And Above (Adolescents And Adults).",
+   "recommendation": "",
+   "decision": "Other",
+   "therapy": [],
+   "drugType": "Unspecified",
+   "sourceUrl": "https://cdscoonline.gov.in/CDSCO/loadRecentApprovals?searchText=Nano+Carrier+Entrapped+Vitamin+D3+Oral+Dispersion+60000+Iu&year=&month=&drugTypeValue=",
+   "linkKind": "listing",
+   "quality": [
+    "no_company"
+   ],
+   "id": "727202ff6485",
+   "firstSeen": "2026-10-08"
+  },
+  {
+   "drug": "Mirabegron Extended Release Tablets",
+   "company": "",
+   "date": "2026",
+   "year": 2026,
+   "month": null,
+   "indication": "Symptomatic Treatment Of Urgency, Increased Micturition Frequency And / Or Urgency Incontinence As May Occur In Patients With Over Active Bladder (Oab) Syndrome",
+   "recommendation": "",
+   "decision": "Other",
+   "therapy": [],
+   "drugType": "Unspecified",
+   "sourceUrl": "https://cdscoonline.gov.in/CDSCO/loadRecentApprovals?searchText=Mirabegron+Extended+Release+Tablets&year=&month=&drugTypeValue=",
+   "linkKind": "listing",
+   "quality": [
+    "no_company"
+   ],
+   "id": "30d1de4e54c5",
+   "firstSeen": "2026-10-08"
+  },
+  {
+   "drug": "Mirabegron 25/50 Mg Prolonged Release Tablets + Tamsulosin Hydrochloride 0.4/0.2 Mg",
+   "company": "",
+   "date": "2026",
+   "year": 2026,
+   "month": null,
+   "indication": "The Combination Is Used To Treat Men With Symptoms Of An Enlarged Prostate (Benign Prostate Enlargement) And Symptoms Of Overactive Bladder.",
+   "recommendation": "",
+   "decision": "Other",
    "therapy": [
     "Urology & Nephrology"
    ],
    "drugType": "Fixed-dose combination",
-   "sourceUrl": "https://cdscoonline.gov.in/docs/sec_14032026_b.pdf",
-   "linkKind": "document",
-   "id": "bc2c8ac1601d",
+   "sourceUrl": "https://cdscoonline.gov.in/CDSCO/loadRecentApprovals?searchText=Mirabegron+25%2F50+Mg+Prolonged+Release+Tablets+%2B+Tamsulosin+Hydrochloride+0.4%2F0.2+Mg&year=&month=&drugTypeValue=",
+   "linkKind": "listing",
+   "quality": [
+    "no_company"
+   ],
+   "id": "0fa10bbb9e92",
    "firstSeen": "2026-10-08"
   },
   {
-   "drug": "SEMAGLUTIDE INJECTION 2.4 mg",
-   "company": "Example Pharma A",
-   "date": "2026-03-14",
+   "drug": "Miglustat Capsules",
+   "company": "",
+   "date": "2026",
    "year": 2026,
-   "month": 3,
-   "indication": "Chronic weight management in adults with obesity",
-   "recommendation": "Firm to submit additional data on cardiovascular outcomes; to reappear before SEC.",
-   "decision": "Additional data requested",
+   "month": null,
+   "indication": "Miglustat Is A Glucosylceramide Synthase Inhibitor Indicated As Monotherapy For Treatment Of Adult Patients With Mild/Moderate Type 1 Gaucher Disease For Whom Enzyme Replacement Therapy Is Not A Therapeutic Option.",
+   "recommendation": "",
+   "decision": "Other",
+   "therapy": [],
+   "drugType": "Unspecified",
+   "sourceUrl": "https://cdscoonline.gov.in/CDSCO/loadRecentApprovals?searchText=Miglustat+Capsules&year=&month=&drugTypeValue=",
+   "linkKind": "listing",
+   "quality": [
+    "no_company"
+   ],
+   "id": "ca4aef3f3f3b",
+   "firstSeen": "2026-10-08"
+  },
+  {
+   "drug": "Miglustat",
+   "company": "",
+   "date": "2026",
+   "year": 2026,
+   "month": null,
+   "indication": "NA",
+   "recommendation": "",
+   "decision": "Other",
+   "therapy": [],
+   "drugType": "Unspecified",
+   "sourceUrl": "https://cdscoonline.gov.in/CDSCO/loadRecentApprovals?searchText=Miglustat&year=&month=&drugTypeValue=",
+   "linkKind": "listing",
+   "quality": [
+    "no_company"
+   ],
+   "id": "c514a0e2c62b",
+   "firstSeen": "2026-10-08"
+  },
+  {
+   "drug": "Micafungin Sodium",
+   "company": "",
+   "date": "2026",
+   "year": 2026,
+   "month": null,
+   "indication": "NA",
+   "recommendation": "",
+   "decision": "Other",
+   "therapy": [],
+   "drugType": "Unspecified",
+   "sourceUrl": "https://cdscoonline.gov.in/CDSCO/loadRecentApprovals?searchText=Micafungin+Sodium&year=&month=&drugTypeValue=",
+   "linkKind": "listing",
+   "quality": [
+    "no_company"
+   ],
+   "id": "d0967744e4a2",
+   "firstSeen": "2026-10-08"
+  },
+  {
+   "drug": "Metformin Hydrochloride 500 Mg (Sustained Release) + Myo-Inositol 600 Mg Tablets",
+   "company": "",
+   "date": "2026",
+   "year": 2026,
+   "month": null,
+   "indication": "For Poly Cystic Ovary Syndrome Management",
+   "recommendation": "",
+   "decision": "Other",
    "therapy": [
-    "Diabetes & Endocrine",
+    "Diabetes & Endocrine"
+   ],
+   "drugType": "Fixed-dose combination",
+   "sourceUrl": "https://cdscoonline.gov.in/CDSCO/loadRecentApprovals?searchText=Metformin+Hydrochloride+500+Mg+%28Sustained+Release%29+%2B+Myo-Inositol+600+Mg+Tablets&year=&month=&drugTypeValue=",
+   "linkKind": "listing",
+   "quality": [
+    "no_company"
+   ],
+   "id": "20a0f9bfd034",
+   "firstSeen": "2026-10-08"
+  },
+  {
+   "drug": "Metformin Hydrochloride + Myo-Inositol",
+   "company": "",
+   "date": "2026",
+   "year": 2026,
+   "month": null,
+   "indication": "For Poly Cystic Ovary Syndrome Management",
+   "recommendation": "",
+   "decision": "Other",
+   "therapy": [
+    "Diabetes & Endocrine"
+   ],
+   "drugType": "Fixed-dose combination",
+   "sourceUrl": "https://cdscoonline.gov.in/CDSCO/loadRecentApprovals?searchText=Metformin+Hydrochloride+%2B+Myo-Inositol&year=&month=&drugTypeValue=",
+   "linkKind": "listing",
+   "quality": [
+    "no_company"
+   ],
+   "id": "d7211e83ef2f",
+   "firstSeen": "2026-10-08"
+  },
+  {
+   "drug": "Mecobalamine 1500mcg + Nortriptyline 10mg + Pregabalin (Sr) 75mg",
+   "company": "",
+   "date": "2026",
+   "year": 2026,
+   "month": null,
+   "indication": "Neuropathic Pain",
+   "recommendation": "",
+   "decision": "Other",
+   "therapy": [
+    "Neurology",
+    "Pain & Anaesthesia"
+   ],
+   "drugType": "Fixed-dose combination",
+   "sourceUrl": "https://cdscoonline.gov.in/CDSCO/loadRecentApprovals?searchText=Mecobalamine+1500mcg+%2B+Nortriptyline+10mg+%2B+Pregabalin+%28Sr%29+75mg&year=&month=&drugTypeValue=",
+   "linkKind": "listing",
+   "quality": [
+    "no_company"
+   ],
+   "id": "14d54df9a249",
+   "firstSeen": "2026-10-08"
+  },
+  {
+   "drug": "Lutetium Lu 177 Vipivotide Tetraxetan Solution For Injection Or Infusion 1000 Mbq/Ml",
+   "company": "",
+   "date": "2026",
+   "year": 2026,
+   "month": null,
+   "indication": "Lutetium Lu 177 Vipivotide Tetraxetan Is Indicated For The Treatment Of Adult Patients With Prostate-Specific Membrane Antigen (Psma)-Positive Metastatic Castration-Resistant Prostate Cancer (Mcrpc) Who Have Been Treated With Androgen Receptor Pathway Inhibitor (Arpi) Therapy, And -Are Considered Appropriate To Delay Taxane-Based Chemotherapy, Or -Have Received Prior Taxane-Based Chemotherapy",
+   "recommendation": "",
+   "decision": "Other",
+   "therapy": [
+    "Oncology",
+    "Urology & Nephrology"
+   ],
+   "drugType": "Unspecified",
+   "sourceUrl": "https://cdscoonline.gov.in/CDSCO/loadRecentApprovals?searchText=Lutetium+Lu+177+Vipivotide+Tetraxetan+Solution+For+Injection+Or+Infusion+1000+Mbq%2FMl&year=&month=&drugTypeValue=",
+   "linkKind": "listing",
+   "quality": [
+    "no_company"
+   ],
+   "id": "17b328399af8",
+   "firstSeen": "2026-10-08"
+  },
+  {
+   "drug": "Levetiracetam",
+   "company": "",
+   "date": "2026",
+   "year": 2026,
+   "month": null,
+   "indication": "NA",
+   "recommendation": "",
+   "decision": "Other",
+   "therapy": [],
+   "drugType": "Unspecified",
+   "sourceUrl": "https://cdscoonline.gov.in/CDSCO/loadRecentApprovals?searchText=Levetiracetam&year=&month=&drugTypeValue=",
+   "linkKind": "listing",
+   "quality": [
+    "no_company"
+   ],
+   "id": "78987f2e5fe6",
+   "firstSeen": "2026-10-08"
+  },
+  {
+   "drug": "Leucine Usp",
+   "company": "",
+   "date": "2026",
+   "year": 2026,
+   "month": null,
+   "indication": "NA",
+   "recommendation": "",
+   "decision": "Other",
+   "therapy": [],
+   "drugType": "Unspecified",
+   "sourceUrl": "https://cdscoonline.gov.in/CDSCO/loadRecentApprovals?searchText=Leucine+Usp&year=&month=&drugTypeValue=",
+   "linkKind": "listing",
+   "quality": [
+    "no_company"
+   ],
+   "id": "7c9646421c10",
+   "firstSeen": "2026-10-08"
+  },
+  {
+   "drug": "Iodixanol",
+   "company": "",
+   "date": "2026",
+   "year": 2026,
+   "month": null,
+   "indication": "NA",
+   "recommendation": "",
+   "decision": "Other",
+   "therapy": [],
+   "drugType": "Unspecified",
+   "sourceUrl": "https://cdscoonline.gov.in/CDSCO/loadRecentApprovals?searchText=Iodixanol&year=&month=&drugTypeValue=",
+   "linkKind": "listing",
+   "quality": [
+    "no_company"
+   ],
+   "id": "716f5ecb6493",
+   "firstSeen": "2026-10-08"
+  },
+  {
+   "drug": "Inactivated Rabies Virus Drug Substance",
+   "company": "",
+   "date": "2026",
+   "year": 2026,
+   "month": null,
+   "indication": "NA",
+   "recommendation": "",
+   "decision": "Other",
+   "therapy": [],
+   "drugType": "Unspecified",
+   "sourceUrl": "https://cdscoonline.gov.in/CDSCO/loadRecentApprovals?searchText=Inactivated+Rabies+Virus+Drug+Substance&year=&month=&drugTypeValue=",
+   "linkKind": "listing",
+   "quality": [
+    "no_company"
+   ],
+   "id": "4ffc584a851d",
+   "firstSeen": "2026-10-08"
+  },
+  {
+   "drug": "Imeglimin Hydrochloride Tablets 500 Mg / 1000 Mg",
+   "company": "",
+   "date": "2026",
+   "year": 2026,
+   "month": null,
+   "indication": "Type 2 Diabetes Mellitus",
+   "recommendation": "",
+   "decision": "Other",
+   "therapy": [
+    "Diabetes & Endocrine"
+   ],
+   "drugType": "Unspecified",
+   "sourceUrl": "https://cdscoonline.gov.in/CDSCO/loadRecentApprovals?searchText=Imeglimin+Hydrochloride+Tablets+500+Mg+%2F+1000+Mg&year=&month=&drugTypeValue=",
+   "linkKind": "listing",
+   "quality": [
+    "no_company"
+   ],
+   "id": "34de8a5e8aa3",
+   "firstSeen": "2026-10-08"
+  },
+  {
+   "drug": "Hydrogen Peroxide Based Disinfectant Wipes",
+   "company": "",
+   "date": "2026",
+   "year": 2026,
+   "month": null,
+   "indication": "For Disinfection Of Floors, Walls And Other Hard Surfaces",
+   "recommendation": "",
+   "decision": "Other",
+   "therapy": [
+    "Infectious Disease"
+   ],
+   "drugType": "Unspecified",
+   "sourceUrl": "https://cdscoonline.gov.in/CDSCO/loadRecentApprovals?searchText=Hydrogen+Peroxide+Based+Disinfectant+Wipes&year=&month=&drugTypeValue=",
+   "linkKind": "listing",
+   "quality": [
+    "no_company"
+   ],
+   "id": "310c489b1567",
+   "firstSeen": "2026-10-08"
+  },
+  {
+   "drug": "Hexavalent Vaccine [Diphtheria, Tetanus, Pertussis (Whole Cell), Hepatitis-B (Rdna), Reduced Poliomyelitis (Inactivated) And Haemophilus Influenzae Type B Conjugate Vaccine (Adsorbed)]",
+   "company": "",
+   "date": "2026",
+   "year": 2026,
+   "month": null,
+   "indication": "Indicated For Active Immunization Of Infants, At Or Above The Age Of 6 Weeks Against Diphtheria, Tetanus, Pertussis, Hepatitis B, Poliomyelitis And Invasive Diseases Caused By Haemophilus Influenzae Type B For 3 Dose Regimen (6,10 & 14 Weeks) For Primary Vaccination.",
+   "recommendation": "",
+   "decision": "Other",
+   "therapy": [
+    "Infectious Disease",
+    "Vaccines"
+   ],
+   "drugType": "Unspecified",
+   "sourceUrl": "https://cdscoonline.gov.in/CDSCO/loadRecentApprovals?searchText=Hexavalent+Vaccine+%5BDiphtheria%2C+Tetanus%2C+Pertussis+%28Whole+Cell%29%2C+Hepatitis-B+%28Rdna%29%2C+Reduced+Poliomyelitis+%28Inactivated%29+And+Haemophilus+Influenzae+Type+B+Conjugate+Vaccine+%28Adsorbed%29%5D&year=&month=&drugTypeValue=",
+   "linkKind": "listing",
+   "quality": [
+    "no_company"
+   ],
+   "id": "78d8b2485ea0",
+   "firstSeen": "2026-10-08"
+  },
+  {
+   "drug": "Hepatitis B Surface Antigen (Aqueous) Concentrate Bulk",
+   "company": "",
+   "date": "2026",
+   "year": 2026,
+   "month": null,
+   "indication": "NA",
+   "recommendation": "",
+   "decision": "Other",
+   "therapy": [
+    "Infectious Disease"
+   ],
+   "drugType": "Unspecified",
+   "sourceUrl": "https://cdscoonline.gov.in/CDSCO/loadRecentApprovals?searchText=Hepatitis+B+Surface+Antigen+%28Aqueous%29+Concentrate+Bulk&year=&month=&drugTypeValue=",
+   "linkKind": "listing",
+   "quality": [
+    "no_company"
+   ],
+   "id": "b3fc2de32dc6",
+   "firstSeen": "2026-10-08"
+  },
+  {
+   "drug": "Glycopyrronium (50 Mcg) + Indacaterol Acetate (150 Mcg) + Mometasone Furoate (160 Mcg)",
+   "company": "",
+   "date": "2026",
+   "year": 2026,
+   "month": null,
+   "indication": "As A Maintained Treatment Of Asthma In Adult Patients Not Adequately Controlled With A Maintenance Combination Of A Long Acting Beta2-Agonist And A High Dose Of An Inhaled Corticosteroid Who Experienced One Or More Asthma Exacerbation In A Previous Year",
+   "recommendation": "",
+   "decision": "Other",
+   "therapy": [
+    "Respiratory"
+   ],
+   "drugType": "Fixed-dose combination",
+   "sourceUrl": "https://cdscoonline.gov.in/CDSCO/loadRecentApprovals?searchText=Glycopyrronium+%2850+Mcg%29+%2B+Indacaterol+Acetate+%28150+Mcg%29+%2B+Mometasone+Furoate+%28160+Mcg%29&year=&month=&drugTypeValue=",
+   "linkKind": "listing",
+   "quality": [
+    "no_company"
+   ],
+   "id": "c35652540c7e",
+   "firstSeen": "2026-10-08"
+  },
+  {
+   "drug": "Gefapixant Tablets 45 Mg",
+   "company": "",
+   "date": "2026",
+   "year": 2026,
+   "month": null,
+   "indication": "Indicated In Adults For The Treatment Of Refractory Or Unexplained Chronic Cough.",
+   "recommendation": "",
+   "decision": "Other",
+   "therapy": [
+    "Respiratory"
+   ],
+   "drugType": "Unspecified",
+   "sourceUrl": "https://cdscoonline.gov.in/CDSCO/loadRecentApprovals?searchText=Gefapixant+Tablets+45+Mg&year=&month=&drugTypeValue=",
+   "linkKind": "listing",
+   "quality": [
+    "no_company"
+   ],
+   "id": "25f73779a6cd",
+   "firstSeen": "2026-10-08"
+  },
+  {
+   "drug": "Gefapixant Citrate",
+   "company": "",
+   "date": "2026",
+   "year": 2026,
+   "month": null,
+   "indication": "NA",
+   "recommendation": "",
+   "decision": "Other",
+   "therapy": [],
+   "drugType": "Unspecified",
+   "sourceUrl": "https://cdscoonline.gov.in/CDSCO/loadRecentApprovals?searchText=Gefapixant+Citrate&year=&month=&drugTypeValue=",
+   "linkKind": "listing",
+   "quality": [
+    "no_company"
+   ],
+   "id": "c33fef818643",
+   "firstSeen": "2026-10-08"
+  },
+  {
+   "drug": "Gadobutrol",
+   "company": "",
+   "date": "2026",
+   "year": 2026,
+   "month": null,
+   "indication": "NA",
+   "recommendation": "",
+   "decision": "Other",
+   "therapy": [],
+   "drugType": "Unspecified",
+   "sourceUrl": "https://cdscoonline.gov.in/CDSCO/loadRecentApprovals?searchText=Gadobutrol&year=&month=&drugTypeValue=",
+   "linkKind": "listing",
+   "quality": [
+    "no_company"
+   ],
+   "id": "8b698b5dfa65",
+   "firstSeen": "2026-10-08"
+  },
+  {
+   "drug": "Gabapentin Extended Release Tablets 300 Mg",
+   "company": "",
+   "date": "2026",
+   "year": 2026,
+   "month": null,
+   "indication": "Indicated For The Management Of Postherpetic Neuralgia",
+   "recommendation": "",
+   "decision": "Other",
+   "therapy": [
+    "Pain & Anaesthesia"
+   ],
+   "drugType": "Unspecified",
+   "sourceUrl": "https://cdscoonline.gov.in/CDSCO/loadRecentApprovals?searchText=Gabapentin+Extended+Release+Tablets+300+Mg&year=&month=&drugTypeValue=",
+   "linkKind": "listing",
+   "quality": [
+    "no_company"
+   ],
+   "id": "52b9bfb18465",
+   "firstSeen": "2026-10-08"
+  },
+  {
+   "drug": "Gabapentin",
+   "company": "",
+   "date": "2026",
+   "year": 2026,
+   "month": null,
+   "indication": "NA",
+   "recommendation": "",
+   "decision": "Other",
+   "therapy": [],
+   "drugType": "Unspecified",
+   "sourceUrl": "https://cdscoonline.gov.in/CDSCO/loadRecentApprovals?searchText=Gabapentin&year=&month=&drugTypeValue=",
+   "linkKind": "listing",
+   "quality": [
+    "no_company"
+   ],
+   "id": "e743c6798ace",
+   "firstSeen": "2026-10-08"
+  },
+  {
+   "drug": "Fluticasone Propionate + Formoterol Fumarate Dihydrate + Glycopyrronium",
+   "company": "",
+   "date": "2026",
+   "year": 2026,
+   "month": null,
+   "indication": "Maintenance Treatment Of Patients With Copd",
+   "recommendation": "",
+   "decision": "Other",
+   "therapy": [
+    "Respiratory"
+   ],
+   "drugType": "Fixed-dose combination",
+   "sourceUrl": "https://cdscoonline.gov.in/CDSCO/loadRecentApprovals?searchText=Fluticasone+Propionate+%2B+Formoterol+Fumarate+Dihydrate+%2B+Glycopyrronium&year=&month=&drugTypeValue=",
+   "linkKind": "listing",
+   "quality": [
+    "no_company"
+   ],
+   "id": "ab7a978a21d3",
+   "firstSeen": "2026-10-08"
+  },
+  {
+   "drug": "Edoxaban Tosylate Monohydrate",
+   "company": "",
+   "date": "2026",
+   "year": 2026,
+   "month": null,
+   "indication": "NA",
+   "recommendation": "",
+   "decision": "Other",
+   "therapy": [],
+   "drugType": "Unspecified",
+   "sourceUrl": "https://cdscoonline.gov.in/CDSCO/loadRecentApprovals?searchText=Edoxaban+Tosylate+Monohydrate&year=&month=&drugTypeValue=",
+   "linkKind": "listing",
+   "quality": [
+    "no_company"
+   ],
+   "id": "330b14bd25b7",
+   "firstSeen": "2026-10-08"
+  },
+  {
+   "drug": "Dydrogesterone Sustained Release Tablets",
+   "company": "",
+   "date": "2026",
+   "year": 2026,
+   "month": null,
+   "indication": "Indicated In Cases Where Progesterone Supplement Is Needed.",
+   "recommendation": "",
+   "decision": "Other",
+   "therapy": [],
+   "drugType": "Unspecified",
+   "sourceUrl": "https://cdscoonline.gov.in/CDSCO/loadRecentApprovals?searchText=Dydrogesterone+Sustained+Release+Tablets&year=&month=&drugTypeValue=",
+   "linkKind": "listing",
+   "quality": [
+    "no_company"
+   ],
+   "id": "2d02bcf164ca",
+   "firstSeen": "2026-10-08"
+  },
+  {
+   "drug": "Durvalumab Solution For Infusion 500 Mg/ 10 Ml & 120 Mg/ 2.4 Ml",
+   "company": "",
+   "date": "2026",
+   "year": 2026,
+   "month": null,
+   "indication": "Non-Small Cell Lung Cancer (Nsclc), Small Cell Lung Cancer (Sclc),Biliary Tract Cancer (Btc), Hepatocellular Carcinoma (Hcc), Endometrial Cancer, Bladder Cancer",
+   "recommendation": "",
+   "decision": "Other",
+   "therapy": [
+    "Oncology"
+   ],
+   "drugType": "Unspecified",
+   "sourceUrl": "https://cdscoonline.gov.in/CDSCO/loadRecentApprovals?searchText=Durvalumab+Solution+For+Infusion+500+Mg%2F+10+Ml+%26+120+Mg%2F+2.4+Ml&year=&month=&drugTypeValue=",
+   "linkKind": "listing",
+   "quality": [
+    "no_company"
+   ],
+   "id": "758bc42e16ed",
+   "firstSeen": "2026-10-08"
+  },
+  {
+   "drug": "Dupilumab",
+   "company": "",
+   "date": "2026",
+   "year": 2026,
+   "month": null,
+   "indication": "Dupixent® Is Indicated For The Treatment Of Adult Patients With Moderate-To-Severe Atopic Dermatitis Whose Disease Is Not Adequately Controlled With Topical Prescription Therapies Or When Those Therapies Are Not Advisable.",
+   "recommendation": "",
+   "decision": "Other",
+   "therapy": [
+    "Dermatology"
+   ],
+   "drugType": "Unspecified",
+   "sourceUrl": "https://cdscoonline.gov.in/CDSCO/loadRecentApprovals?searchText=Dupilumab&year=&month=&drugTypeValue=",
+   "linkKind": "listing",
+   "quality": [
+    "no_company"
+   ],
+   "id": "cfcadd3521f6",
+   "firstSeen": "2026-10-08"
+  },
+  {
+   "drug": "Dexmedetomidine Hydrochloride Solution For Infusion",
+   "company": "",
+   "date": "2026",
+   "year": 2026,
+   "month": null,
+   "indication": "Sedation Of Initially Intubated And Mechanically Ventilated Adult Patients During Treatment In An Intensive Care Setting.,Sedation Of Non Intubated Adult Patients Prior To And /Or During Surgical & Other Procedures.",
+   "recommendation": "",
+   "decision": "Other",
+   "therapy": [
+    "Pain & Anaesthesia"
+   ],
+   "drugType": "Unspecified",
+   "sourceUrl": "https://cdscoonline.gov.in/CDSCO/loadRecentApprovals?searchText=Dexmedetomidine+Hydrochloride+Solution+For+Infusion&year=&month=&drugTypeValue=",
+   "linkKind": "listing",
+   "quality": [
+    "no_company"
+   ],
+   "id": "9145a06f21db",
+   "firstSeen": "2026-10-08"
+  },
+  {
+   "drug": "Daratumumab Solution For Injection 1800 Mg",
+   "company": "",
+   "date": "2026",
+   "year": 2026,
+   "month": null,
+   "indication": "In Combination With Lenalidomide And Dexamethasone Or With Bortezomib, Melphalan And Prednisone For The Treatment Of Adult Patients With Newly Diagnosed Multiple Myeloma Who Are Ineligible For Autologous Stem Cell Transplant.,In Combination With Bortezomib, Lenalidomide And Dexamethasone For The Treatment Of Adult Patients With Newly Diagnosed Multiple Myeloma Who Are Eligible For Autologous Stem Cell Transplant.,In Combination With Bortezomib, Thalidomide And Dexamethasone For The Treatment Of Adult Patients With Newly Diagnosed Multiple Myeloma Who Are Eligible For Autologous Stem Cell Transplant.,In Combination With Lenalidomide And Dexamethasone, Or Bortezomib And Dexamethasone, For The Treatment Of Adult Patients With Multiple Myeloma Who Have Received At Least One Prior Therapy.,In Combination With Pomalidomide And Dexamethasone For The Treatment Of Adult Patients With Multiple Myeloma Who Have Received One Prior Therapy Containing A Proteasome Inhibitor And Lenalidomide And Were Lenalidomide-Refractory, Or Who Have Received At Least Two Prior Therapies That Included Lenalidomide And A Proteasome Inhibitor And Have Demonstrated Disease Progression On Or After The Last Therapy,As Monotherapy For The Treatment Of Adult Patients With Relapsed And Refractory Multiple Myeloma, Whose Prior Therapy Included A Proteasome Inhibitor And An Immunomodulatory Agent And Who Have Demonstrated Disease Progression On The Last Therapy",
+   "recommendation": "",
+   "decision": "Other",
+   "therapy": [
+    "Oncology",
+    "Immunology & Rheumatology"
+   ],
+   "drugType": "Unspecified",
+   "sourceUrl": "https://cdscoonline.gov.in/CDSCO/loadRecentApprovals?searchText=Daratumumab+Solution+For+Injection+1800+Mg&year=&month=&drugTypeValue=",
+   "linkKind": "listing",
+   "quality": [
+    "no_company"
+   ],
+   "id": "2d1c86b1ea63",
+   "firstSeen": "2026-10-08"
+  },
+  {
+   "drug": "Daptomycin",
+   "company": "",
+   "date": "2026",
+   "year": 2026,
+   "month": null,
+   "indication": "NA",
+   "recommendation": "",
+   "decision": "Other",
+   "therapy": [],
+   "drugType": "Unspecified",
+   "sourceUrl": "https://cdscoonline.gov.in/CDSCO/loadRecentApprovals?searchText=Daptomycin&year=&month=&drugTypeValue=",
+   "linkKind": "listing",
+   "quality": [
+    "no_company"
+   ],
+   "id": "93640441b3b1",
+   "firstSeen": "2026-10-08"
+  },
+  {
+   "drug": "Dapagliflozin + Extended Release Metformin Hydrochloride + Glimepiride",
+   "company": "",
+   "date": "2026",
+   "year": 2026,
+   "month": null,
+   "indication": "Indicated As An Adjunct To Diet And Exercise To Improve Glycemic Control In Adults With Type 2 Diabetes Mellitus",
+   "recommendation": "",
+   "decision": "Other",
+   "therapy": [
+    "Diabetes & Endocrine"
+   ],
+   "drugType": "Fixed-dose combination",
+   "sourceUrl": "https://cdscoonline.gov.in/CDSCO/loadRecentApprovals?searchText=Dapagliflozin+%2B+Extended+Release+Metformin+Hydrochloride+%2B+Glimepiride&year=&month=&drugTypeValue=",
+   "linkKind": "listing",
+   "quality": [
+    "no_company"
+   ],
+   "id": "b81449bdbe9e",
+   "firstSeen": "2026-10-08"
+  },
+  {
+   "drug": "D,L-Alpha Ketoisoleucine Calcium 98.5 % Min",
+   "company": "",
+   "date": "2026",
+   "year": 2026,
+   "month": null,
+   "indication": "NA",
+   "recommendation": "",
+   "decision": "Other",
+   "therapy": [],
+   "drugType": "Unspecified",
+   "sourceUrl": "https://cdscoonline.gov.in/CDSCO/loadRecentApprovals?searchText=D%2CL-Alpha+Ketoisoleucine+Calcium+98.5+%25+Min&year=&month=&drugTypeValue=",
+   "linkKind": "listing",
+   "quality": [
+    "no_company"
+   ],
+   "id": "bc8b71daaf2f",
+   "firstSeen": "2026-10-08"
+  },
+  {
+   "drug": "Colistimethate Sodium",
+   "company": "",
+   "date": "2026",
+   "year": 2026,
+   "month": null,
+   "indication": "NA",
+   "recommendation": "",
+   "decision": "Other",
+   "therapy": [],
+   "drugType": "Unspecified",
+   "sourceUrl": "https://cdscoonline.gov.in/CDSCO/loadRecentApprovals?searchText=Colistimethate+Sodium&year=&month=&drugTypeValue=",
+   "linkKind": "listing",
+   "quality": [
+    "no_company"
+   ],
+   "id": "06ef66304bbd",
+   "firstSeen": "2026-10-08"
+  },
+  {
+   "drug": "Colchicine Tablet Ip 0.5 Mg",
+   "company": "",
+   "date": "2026",
+   "year": 2026,
+   "month": null,
+   "indication": "Indicated To Reduce The Risk Of Myocardial Infarction (Mi), Stroke, Coronary Revascularization, And Cardiovascular Death In Adult Patients With Established Atherosclerotic Disease Or With Multiple Risk Factors For Cardiovascular Disease.",
+   "recommendation": "",
+   "decision": "Other",
+   "therapy": [
     "Cardiovascular"
    ],
    "drugType": "Unspecified",
-   "sourceUrl": "https://cdscoonline.gov.in/docs/sec_14032026.pdf",
-   "linkKind": "document",
-   "id": "81a61a5ff9e8",
+   "sourceUrl": "https://cdscoonline.gov.in/CDSCO/loadRecentApprovals?searchText=Colchicine+Tablet+Ip+0.5+Mg&year=&month=&drugTypeValue=",
+   "linkKind": "listing",
+   "quality": [
+    "no_company"
+   ],
+   "id": "a4fdba3fc27c",
+   "firstSeen": "2026-10-08"
+  },
+  {
+   "drug": "Cholecalciferol Oral Drops",
+   "company": "",
+   "date": "2026",
+   "year": 2026,
+   "month": null,
+   "indication": "For The Prevention And Treatment Of Vitamin D Deficiency.",
+   "recommendation": "",
+   "decision": "Other",
+   "therapy": [],
+   "drugType": "Unspecified",
+   "sourceUrl": "https://cdscoonline.gov.in/CDSCO/loadRecentApprovals?searchText=Cholecalciferol+Oral+Drops&year=&month=&drugTypeValue=",
+   "linkKind": "listing",
+   "quality": [
+    "no_company"
+   ],
+   "id": "3baa9ba57a6d",
+   "firstSeen": "2026-10-08"
+  },
+  {
+   "drug": "Cetuximab Injection 5mg/Ml (Solution For Infusion)",
+   "company": "",
+   "date": "2026",
+   "year": 2026,
+   "month": null,
+   "indication": "C) In Combination With Radiation Therapy For The Treatment Of Patients With Locally Advanced Squamous Cell Cancer Of The Head And Neck.,A) For The Treatment Of Patients With Epidermal Growth Factor Receptor (Egfr) Expressing Ras Wild-Type Metastatic Colorectal Cancer: In Combination With Irinotecan-Based Chemotherapy In First-Line In Combination With Folfox As A Single Agent In Patient Who Have Failed Oxaliplatin & Irinotecan Based Therapy & Who Are Intolerant To Irinotecan,B) Indicated For The Treatment Of Patients With Squamous Cell Cancer Of The Head And Neck In Combination With Platinum-Based Chemotherapy For Recurrent And/Or Metastatic Disease.",
+   "recommendation": "",
+   "decision": "Other",
+   "therapy": [
+    "Oncology"
+   ],
+   "drugType": "Unspecified",
+   "sourceUrl": "https://cdscoonline.gov.in/CDSCO/loadRecentApprovals?searchText=Cetuximab+Injection+5mg%2FMl+%28Solution+For+Infusion%29&year=&month=&drugTypeValue=",
+   "linkKind": "listing",
+   "quality": [
+    "no_company"
+   ],
+   "id": "4c18a2ab08a7",
+   "firstSeen": "2026-10-08"
+  },
+  {
+   "drug": "Cenobamate-Bulk Drug",
+   "company": "",
+   "date": "2026",
+   "year": 2026,
+   "month": null,
+   "indication": "NA",
+   "recommendation": "",
+   "decision": "Other",
+   "therapy": [],
+   "drugType": "Unspecified",
+   "sourceUrl": "https://cdscoonline.gov.in/CDSCO/loadRecentApprovals?searchText=Cenobamate-Bulk+Drug&year=&month=&drugTypeValue=",
+   "linkKind": "listing",
+   "quality": [
+    "no_company"
+   ],
+   "id": "f4c6069790fc",
+   "firstSeen": "2026-10-08"
+  },
+  {
+   "drug": "Cenobamate Tablets 12.5mg, 25mg, 50mg, 100mg, 150mg And 200mg",
+   "company": "",
+   "date": "2026",
+   "year": 2026,
+   "month": null,
+   "indication": "It Is Indicated For The Treatment Of Partial-Onset Seizures In Adult Patients.",
+   "recommendation": "",
+   "decision": "Other",
+   "therapy": [
+    "Neurology"
+   ],
+   "drugType": "Unspecified",
+   "sourceUrl": "https://cdscoonline.gov.in/CDSCO/loadRecentApprovals?searchText=Cenobamate+Tablets+12.5mg%2C+25mg%2C+50mg%2C+100mg%2C+150mg+And+200mg&year=&month=&drugTypeValue=",
+   "linkKind": "listing",
+   "quality": [
+    "no_company"
+   ],
+   "id": "20b4c525c06a",
+   "firstSeen": "2026-10-08"
+  },
+  {
+   "drug": "Cenobamate Tablets",
+   "company": "",
+   "date": "2026",
+   "year": 2026,
+   "month": null,
+   "indication": "It Is Indicated For The Treatment Of Partial-Onset Seizures In Adult Patients",
+   "recommendation": "",
+   "decision": "Other",
+   "therapy": [
+    "Neurology"
+   ],
+   "drugType": "Unspecified",
+   "sourceUrl": "https://cdscoonline.gov.in/CDSCO/loadRecentApprovals?searchText=Cenobamate+Tablets&year=&month=&drugTypeValue=",
+   "linkKind": "listing",
+   "quality": [
+    "no_company"
+   ],
+   "id": "a177858968b0",
+   "firstSeen": "2026-10-08"
+  },
+  {
+   "drug": "Cenobamate",
+   "company": "",
+   "date": "2026",
+   "year": 2026,
+   "month": null,
+   "indication": "NA",
+   "recommendation": "",
+   "decision": "Other",
+   "therapy": [],
+   "drugType": "Unspecified",
+   "sourceUrl": "https://cdscoonline.gov.in/CDSCO/loadRecentApprovals?searchText=Cenobamate&year=&month=&drugTypeValue=",
+   "linkKind": "listing",
+   "quality": [
+    "no_company"
+   ],
+   "id": "f7110088acc9",
+   "firstSeen": "2026-10-08"
+  },
+  {
+   "drug": "Cefepime For Injection + Zidebactam",
+   "company": "",
+   "date": "2026",
+   "year": 2026,
+   "month": null,
+   "indication": "Zaynich Is Indicated For The Treatment Of Adult (18 Years Of Age Or Older) Patients With Complicated Urinary Tract Infections, Or Pyelonephritis, Including Concurrent Gram Negative Bacteremia.",
+   "recommendation": "",
+   "decision": "Other",
+   "therapy": [
+    "Infectious Disease",
+    "Urology & Nephrology"
+   ],
+   "drugType": "Fixed-dose combination",
+   "sourceUrl": "https://cdscoonline.gov.in/CDSCO/loadRecentApprovals?searchText=Cefepime+For+Injection+%2B+Zidebactam&year=&month=&drugTypeValue=",
+   "linkKind": "listing",
+   "quality": [
+    "no_company"
+   ],
+   "id": "a139596a5da9",
+   "firstSeen": "2026-10-08"
+  },
+  {
+   "drug": "Brexpiprazole Tablets",
+   "company": "",
+   "date": "2026",
+   "year": 2026,
+   "month": null,
+   "indication": "Brexpiprazole Is Indicated For The Treatment Of Acute Schizophrenia In Adults.",
+   "recommendation": "",
+   "decision": "Other",
+   "therapy": [
+    "Psychiatry"
+   ],
+   "drugType": "Unspecified",
+   "sourceUrl": "https://cdscoonline.gov.in/CDSCO/loadRecentApprovals?searchText=Brexpiprazole+Tablets&year=&month=&drugTypeValue=",
+   "linkKind": "listing",
+   "quality": [
+    "no_company"
+   ],
+   "id": "0d61f8a901b1",
+   "firstSeen": "2026-10-08"
+  },
+  {
+   "drug": "Bisoprolol Fumarate 2.5 Mg/5 Mg + Cilnidipine 10 Mg/10 Mg Tablets + Telmisartan 40 Mg /40 Mg",
+   "company": "",
+   "date": "2026",
+   "year": 2026,
+   "month": null,
+   "indication": "It Is Indicated For The Treatment In Subjects With Uncontrolled Essential Hypertension And Stable Coronary Artery Disease",
+   "recommendation": "",
+   "decision": "Other",
+   "therapy": [
+    "Cardiovascular"
+   ],
+   "drugType": "Fixed-dose combination",
+   "sourceUrl": "https://cdscoonline.gov.in/CDSCO/loadRecentApprovals?searchText=Bisoprolol+Fumarate+2.5+Mg%2F5+Mg+%2B+Cilnidipine+10+Mg%2F10+Mg+Tablets+%2B+Telmisartan+40+Mg+%2F40+Mg&year=&month=&drugTypeValue=",
+   "linkKind": "listing",
+   "quality": [
+    "no_company"
+   ],
+   "id": "54bc7defcc5d",
+   "firstSeen": "2026-10-08"
+  },
+  {
+   "drug": "Biphasic Isophane Insulin Injection Ip (50/50 Biphasic), 100 Iu/Ml, 10 Ml Vials",
+   "company": "",
+   "date": "2026",
+   "year": 2026,
+   "month": null,
+   "indication": "Treatment Of Diabetes Mellitus",
+   "recommendation": "",
+   "decision": "Other",
+   "therapy": [
+    "Diabetes & Endocrine"
+   ],
+   "drugType": "Unspecified",
+   "sourceUrl": "https://cdscoonline.gov.in/CDSCO/loadRecentApprovals?searchText=Biphasic+Isophane+Insulin+Injection+Ip+%2850%2F50+Biphasic%29%2C+100+Iu%2FMl%2C+10+Ml+Vials&year=&month=&drugTypeValue=",
+   "linkKind": "listing",
+   "quality": [
+    "no_company"
+   ],
+   "id": "b7a191020ab5",
+   "firstSeen": "2026-10-08"
+  },
+  {
+   "drug": "Biphasic Isophane Insulin Injection Ip",
+   "company": "",
+   "date": "2026",
+   "year": 2026,
+   "month": null,
+   "indication": "For The Treatment Of Diabetes Mellitus,For The Treatment Of Diabetes Mellitus",
+   "recommendation": "",
+   "decision": "Other",
+   "therapy": [
+    "Diabetes & Endocrine"
+   ],
+   "drugType": "Unspecified",
+   "sourceUrl": "https://cdscoonline.gov.in/CDSCO/loadRecentApprovals?searchText=Biphasic+Isophane+Insulin+Injection+Ip&year=&month=&drugTypeValue=",
+   "linkKind": "listing",
+   "quality": [
+    "no_company"
+   ],
+   "id": "8b5189312901",
+   "firstSeen": "2026-10-08"
+  },
+  {
+   "drug": "Belzutifan Tablets",
+   "company": "",
+   "date": "2026",
+   "year": 2026,
+   "month": null,
+   "indication": "Von Hippel-Lindau (Vhl) Disease Associated Tumours ? Belzutifan Is Indicated For The Treatment Of Adult Patients With Von Hippel-Lindau (Vhl) Disease Who Require Therapy For Vhl Associated Renal Cell Carcinoma (Rcc), Central Nervous System (Cns) Hemangioblastomas, Or Pancreatic Neuroendocrine Tumours (Pnet), And For Whom Localised Procedures Are Unsuitable Or Undesirable.",
+   "recommendation": "",
+   "decision": "Other",
+   "therapy": [
+    "Oncology",
+    "Diabetes & Endocrine",
+    "Gastroenterology"
+   ],
+   "drugType": "Unspecified",
+   "sourceUrl": "https://cdscoonline.gov.in/CDSCO/loadRecentApprovals?searchText=Belzutifan+Tablets&year=&month=&drugTypeValue=",
+   "linkKind": "listing",
+   "quality": [
+    "no_company"
+   ],
+   "id": "7cf264d20619",
+   "firstSeen": "2026-10-08"
+  },
+  {
+   "drug": "Avibactam Sodium Sterile",
+   "company": "",
+   "date": "2026",
+   "year": 2026,
+   "month": null,
+   "indication": "NA",
+   "recommendation": "",
+   "decision": "Other",
+   "therapy": [],
+   "drugType": "Unspecified",
+   "sourceUrl": "https://cdscoonline.gov.in/CDSCO/loadRecentApprovals?searchText=Avibactam+Sodium+Sterile&year=&month=&drugTypeValue=",
+   "linkKind": "listing",
+   "quality": [
+    "no_company"
+   ],
+   "id": "611abd5b7987",
+   "firstSeen": "2026-10-08"
+  },
+  {
+   "drug": "Aflibercept Solution For Intravitreal Injection",
+   "company": "",
+   "date": "2026",
+   "year": 2026,
+   "month": null,
+   "indication": "Eylea Hd Is Indicated In Adults For The Treatment Of Neovascular (Wet) Age-Related Macular Degeneration (Namd),Diabetic Macular Edema (Dme)",
+   "recommendation": "",
+   "decision": "Other",
+   "therapy": [
+    "Ophthalmology"
+   ],
+   "drugType": "Unspecified",
+   "sourceUrl": "https://cdscoonline.gov.in/CDSCO/loadRecentApprovals?searchText=Aflibercept+Solution+For+Intravitreal+Injection&year=&month=&drugTypeValue=",
+   "linkKind": "listing",
+   "quality": [
+    "no_company"
+   ],
+   "id": "2157918560bb",
+   "firstSeen": "2026-10-08"
+  },
+  {
+   "drug": "Acebrophylline 100 Mg + Erdosteine 300 Mg Tablets",
+   "company": "",
+   "date": "2026",
+   "year": 2026,
+   "month": null,
+   "indication": "Treatment Of Chronic Bronchitis In Patients With Chronic Obstructive Pulmonary Disease",
+   "recommendation": "",
+   "decision": "Other",
+   "therapy": [
+    "Respiratory"
+   ],
+   "drugType": "Fixed-dose combination",
+   "sourceUrl": "https://cdscoonline.gov.in/CDSCO/loadRecentApprovals?searchText=Acebrophylline+100+Mg+%2B+Erdosteine+300+Mg+Tablets&year=&month=&drugTypeValue=",
+   "linkKind": "listing",
+   "quality": [
+    "no_company"
+   ],
+   "id": "773ff03d591a",
+   "firstSeen": "2026-10-08"
+  },
+  {
+   "drug": "Abatacept",
+   "company": "",
+   "date": "2026",
+   "year": 2026,
+   "month": null,
+   "indication": "Rheumatoid Arthritis (Ra),Polyarticular Juvenile Idiopathic Arthritis (Pjia),Psoriatic Arthritis (Psa),Acute Graft Versus Host Disease (Agvhd)",
+   "recommendation": "",
+   "decision": "Other",
+   "therapy": [
+    "Immunology & Rheumatology"
+   ],
+   "drugType": "Unspecified",
+   "sourceUrl": "https://cdscoonline.gov.in/CDSCO/loadRecentApprovals?searchText=Abatacept&year=&month=&drugTypeValue=",
+   "linkKind": "listing",
+   "quality": [
+    "no_company"
+   ],
+   "id": "d4cdf106518c",
+   "firstSeen": "2026-10-08"
+  },
+  {
+   "drug": ".Vonoprazan Tablets 20mg, + Amoxicillin Capsules Ip 500mg And + Clarithromycin Tablets Ip 500mg Co Pack.",
+   "company": "",
+   "date": "2026",
+   "year": 2026,
+   "month": null,
+   "indication": "Vonoprazan Tablets; Amoxicillin Capsules; Clarithromycin Tablets Are Indicated For The Treatment Of Helicobacter Pylori (H. Pylori) Infection In Adults.",
+   "recommendation": "",
+   "decision": "Other",
+   "therapy": [
+    "Infectious Disease"
+   ],
+   "drugType": "Fixed-dose combination",
+   "sourceUrl": "https://cdscoonline.gov.in/CDSCO/loadRecentApprovals?searchText=.Vonoprazan+Tablets+20mg%2C+%2B+Amoxicillin+Capsules+Ip+500mg+And+%2B+Clarithromycin+Tablets+Ip+500mg+Co+Pack.&year=&month=&drugTypeValue=",
+   "linkKind": "listing",
+   "quality": [
+    "no_company"
+   ],
+   "id": "d78454877f57",
    "firstSeen": "2026-10-08"
   }
  ]
