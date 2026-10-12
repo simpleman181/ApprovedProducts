@@ -1,8 +1,8 @@
 {
  "meta": {
   "version": 1,
-  "generatedAt": "2026-10-08T06:39:55+00:00",
-  "count": 80,
+  "generatedAt": "2026-10-12T09:30:11+00:00",
+  "count": 88,
   "sample": false
  },
  "records": [
@@ -439,6 +439,27 @@
    "firstSeen": "2026-10-08"
   },
   {
+   "drug": "Purified Polysaccharide Conjugate Of S. Pneumoniae, Serotypes 1, 5, 6a, 6b, 7f, 9v, 14, 18c, 19a, 19f, 23f Conjugated To Crm197",
+   "company": "",
+   "date": "2026",
+   "year": 2026,
+   "month": null,
+   "indication": "NA",
+   "recommendation": "",
+   "decision": "Other",
+   "therapy": [
+    "Infectious Disease"
+   ],
+   "drugType": "Unspecified",
+   "sourceUrl": "https://cdscoonline.gov.in/CDSCO/loadRecentApprovals?searchText=Purified+Polysaccharide+Conjugate+Of+S.+Pneumoniae%2C+Serotypes+1%2C+5%2C+6a%2C+6b%2C+7f%2C+9v%2C+14%2C+18c%2C+19a%2C+19f%2C+23f+Conjugated+To+Crm197&year=&month=&drugTypeValue=",
+   "linkKind": "listing",
+   "quality": [
+    "no_company"
+   ],
+   "id": "b0c6680c1ab3",
+   "firstSeen": "2026-10-12"
+  },
+  {
    "drug": "Pneumococcal Polysaccharide Conjugate Vaccine (Adsorbed) Ip, 11-Valent",
    "company": "",
    "date": "2026",
@@ -842,6 +863,28 @@
    "firstSeen": "2026-10-08"
   },
   {
+   "drug": "Inactivated Hepatitis A Vaccine (Adsorbed) I.P.",
+   "company": "",
+   "date": "2026",
+   "year": 2026,
+   "month": null,
+   "indication": "For Prevention Of Hepatitis A Infection For 0.5 Ml Dose Of Children (Above 1 Year) & Adolescents And 1ml In Adults (Age 19 Years To 49 Years).",
+   "recommendation": "",
+   "decision": "Other",
+   "therapy": [
+    "Infectious Disease",
+    "Vaccines"
+   ],
+   "drugType": "Unspecified",
+   "sourceUrl": "https://cdscoonline.gov.in/CDSCO/loadRecentApprovals?searchText=Inactivated+Hepatitis+A+Vaccine+%28Adsorbed%29+I.P.&year=&month=&drugTypeValue=",
+   "linkKind": "listing",
+   "quality": [
+    "no_company"
+   ],
+   "id": "68e3ae54162c",
+   "firstSeen": "2026-10-12"
+  },
+  {
    "drug": "Imeglimin Hydrochloride Tablets 500 Mg / 1000 Mg",
    "company": "",
    "date": "2026",
@@ -861,6 +904,25 @@
    ],
    "id": "34de8a5e8aa3",
    "firstSeen": "2026-10-08"
+  },
+  {
+   "drug": "Hydroxyethyl Starch (130/0.4)",
+   "company": "",
+   "date": "2026",
+   "year": 2026,
+   "month": null,
+   "indication": "NA",
+   "recommendation": "",
+   "decision": "Other",
+   "therapy": [],
+   "drugType": "Unspecified",
+   "sourceUrl": "https://cdscoonline.gov.in/CDSCO/loadRecentApprovals?searchText=Hydroxyethyl+Starch+%28130%2F0.4%29&year=&month=&drugTypeValue=",
+   "linkKind": "listing",
+   "quality": [
+    "no_company"
+   ],
+   "id": "41ded9670f00",
+   "firstSeen": "2026-10-12"
   },
   {
    "drug": "Hydrogen Peroxide Based Disinfectant Wipes",
@@ -1210,6 +1272,27 @@
    "firstSeen": "2026-10-08"
   },
   {
+   "drug": "Dapagliflozin + Metformin Hcl (As Sustained Release) + Vildagliptin (As Sustained Release)",
+   "company": "",
+   "date": "2026",
+   "year": 2026,
+   "month": null,
+   "indication": "For The Treatment Of Patients With Type 2 Diabetes Mellitus",
+   "recommendation": "",
+   "decision": "Other",
+   "therapy": [
+    "Diabetes & Endocrine"
+   ],
+   "drugType": "Fixed-dose combination",
+   "sourceUrl": "https://cdscoonline.gov.in/CDSCO/loadRecentApprovals?searchText=Dapagliflozin+%2B+Metformin+Hcl+%28As+Sustained+Release%29+%2B+Vildagliptin+%28As+Sustained+Release%29&year=&month=&drugTypeValue=",
+   "linkKind": "listing",
+   "quality": [
+    "no_company"
+   ],
+   "id": "507a387f2ed0",
+   "firstSeen": "2026-10-12"
+  },
+  {
    "drug": "Dapagliflozin + Extended Release Metformin Hydrochloride + Glimepiride",
    "company": "",
    "date": "2026",
@@ -1288,6 +1371,25 @@
    ],
    "id": "a4fdba3fc27c",
    "firstSeen": "2026-10-08"
+  },
+  {
+   "drug": "Clindamycin Phosphate",
+   "company": "",
+   "date": "2026",
+   "year": 2026,
+   "month": null,
+   "indication": "NA",
+   "recommendation": "",
+   "decision": "Other",
+   "therapy": [],
+   "drugType": "Unspecified",
+   "sourceUrl": "https://cdscoonline.gov.in/CDSCO/loadRecentApprovals?searchText=Clindamycin+Phosphate&year=&month=&drugTypeValue=",
+   "linkKind": "listing",
+   "quality": [
+    "no_company"
+   ],
+   "id": "fd6034f87108",
+   "firstSeen": "2026-10-12"
   },
   {
    "drug": "Cholecalciferol Oral Drops",
@@ -1396,10 +1498,12 @@
    "date": "2026",
    "year": 2026,
    "month": null,
-   "indication": "NA",
+   "indication": "For The Adjunctive Treatment Of Focal-Onset Seizures With Or Without Secondary Generalisation In Adult Patients With Epilepsy Who Have Not Been Adequately Controlled Despite A History Of Treatment With At Least 2 Anti-Epileptic Medicinal Products.",
    "recommendation": "",
    "decision": "Other",
-   "therapy": [],
+   "therapy": [
+    "Neurology"
+   ],
    "drugType": "Unspecified",
    "sourceUrl": "https://cdscoonline.gov.in/CDSCO/loadRecentApprovals?searchText=Cenobamate&year=&month=&drugTypeValue=",
    "linkKind": "listing",
@@ -1408,6 +1512,25 @@
    ],
    "id": "f7110088acc9",
    "firstSeen": "2026-10-08"
+  },
+  {
+   "drug": "Ceftazidime-Avibactam Bulk Mixture (Sterile)",
+   "company": "",
+   "date": "2026",
+   "year": 2026,
+   "month": null,
+   "indication": "NA",
+   "recommendation": "",
+   "decision": "Other",
+   "therapy": [],
+   "drugType": "Unspecified",
+   "sourceUrl": "https://cdscoonline.gov.in/CDSCO/loadRecentApprovals?searchText=Ceftazidime-Avibactam+Bulk+Mixture+%28Sterile%29&year=&month=&drugTypeValue=",
+   "linkKind": "listing",
+   "quality": [
+    "no_company"
+   ],
+   "id": "d01718d6050c",
+   "firstSeen": "2026-10-12"
   },
   {
    "drug": "Cefepime For Injection + Zidebactam",
@@ -1556,6 +1679,46 @@
    ],
    "id": "611abd5b7987",
    "firstSeen": "2026-10-08"
+  },
+  {
+   "drug": "Atomoxetine Oral Solution",
+   "company": "",
+   "date": "2026",
+   "year": 2026,
+   "month": null,
+   "indication": "It Is Indicated For The Treatment Of Attention-Deficit/Hyperactivity Disorder (Adhd) In Children Of 6 Years And Older, In Adolescents And In Adults",
+   "recommendation": "",
+   "decision": "Other",
+   "therapy": [
+    "Psychiatry"
+   ],
+   "drugType": "Unspecified",
+   "sourceUrl": "https://cdscoonline.gov.in/CDSCO/loadRecentApprovals?searchText=Atomoxetine+Oral+Solution&year=&month=&drugTypeValue=",
+   "linkKind": "listing",
+   "quality": [
+    "no_company"
+   ],
+   "id": "78d0d96dc100",
+   "firstSeen": "2026-10-12"
+  },
+  {
+   "drug": "Amorolfine Hydrochloride",
+   "company": "",
+   "date": "2026",
+   "year": 2026,
+   "month": null,
+   "indication": "NA",
+   "recommendation": "",
+   "decision": "Other",
+   "therapy": [],
+   "drugType": "Unspecified",
+   "sourceUrl": "https://cdscoonline.gov.in/CDSCO/loadRecentApprovals?searchText=Amorolfine+Hydrochloride&year=&month=&drugTypeValue=",
+   "linkKind": "listing",
+   "quality": [
+    "no_company"
+   ],
+   "id": "aba98f95ee46",
+   "firstSeen": "2026-10-12"
   },
   {
    "drug": "Aflibercept Solution For Intravitreal Injection",
