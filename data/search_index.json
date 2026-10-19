@@ -1,8 +1,8 @@
 {
  "meta": {
   "version": 1,
-  "generatedAt": "2026-10-12T09:30:11+00:00",
-  "count": 88,
+  "generatedAt": "2026-10-19T07:58:28+00:00",
+  "count": 97,
   "sample": false
  },
  "records": [
@@ -26,6 +26,27 @@
    "firstSeen": "2026-10-08"
   },
   {
+   "drug": "Zanubrutinib Tablets 160 Mg",
+   "company": "",
+   "date": "2026",
+   "year": 2026,
+   "month": null,
+   "indication": "Zanubrutinib Tablets 160mg For Oral Use, Is A Bruton Tyrosine Kinase (Btk) Inhibitor Indicated For The Treatment Of Adult Patients With: ? Mantle Cell Lymphoma (Mcl) Who Have Received At Least One Prior Therapy. ? Waldenström?S Macroglobulinemia (Wm). ? Relapsed Or Refractory Marginal Zone Lymphoma (Mzl) Who Have Received At Least One Anti-Cd20-Based Regimen. ? Chronic Lymphocytic Leukemia (Cll) Or Small Lymphocytic Lymphoma (Sll). ? Relapsed Or Refractory Follicular Lymphoma (Fl), In Combination With Obinutuzumab, After Two Or More Lines Of Systemic Therapy.",
+   "recommendation": "",
+   "decision": "Other",
+   "therapy": [
+    "Oncology"
+   ],
+   "drugType": "Unspecified",
+   "sourceUrl": "https://cdscoonline.gov.in/CDSCO/loadRecentApprovals?searchText=Zanubrutinib+Tablets+160+Mg&year=&month=&drugTypeValue=",
+   "linkKind": "listing",
+   "quality": [
+    "no_company"
+   ],
+   "id": "7639a09fc91b",
+   "firstSeen": "2026-10-19"
+  },
+  {
    "drug": "Vonoprazan Tablets",
    "company": "",
    "date": "2026",
@@ -47,6 +68,29 @@
    ],
    "id": "d2dceb9964f7",
    "firstSeen": "2026-10-08"
+  },
+  {
+   "drug": "Vonoprazan Fumarate Equivalent To Vonoprazan 10 Mg And 20 Mg",
+   "company": "",
+   "date": "2026",
+   "year": 2026,
+   "month": null,
+   "indication": "Vonoprazan Is Indicated In The: ? Treatment Of Reflux Esophagitis (Re) Other Indications: ? Treatment Of Gastric Ulcer (Gu) ? Treatment Of Duodenal Ulcer (Du) ? Prevention Of Recurrence Of Gastric Ulcer Or Duodenal Ulcer During Low-Dose Aspirin Administration. ? Prevention Of Recurrence Of Gastric Ulcer Or Duodenal Ulcer During Nsaids Administration. ? Adjunct To Helicobacter Pylori Eradication Associated With: Gastric Ulcer, Duodenal Ulcer, Gastric Malt Lymphoma, Idiopathic Thrombocytopenic Purpura, The Stomach After Endoscopic Resection Of Early Stage Cancer, Or Helicobacter Pylori Gastritis.",
+   "recommendation": "",
+   "decision": "Other",
+   "therapy": [
+    "Oncology",
+    "Cardiovascular",
+    "Gastroenterology"
+   ],
+   "drugType": "Unspecified",
+   "sourceUrl": "https://cdscoonline.gov.in/CDSCO/loadRecentApprovals?searchText=Vonoprazan+Fumarate+Equivalent+To+Vonoprazan+10+Mg+And+20+Mg&year=&month=&drugTypeValue=",
+   "linkKind": "listing",
+   "quality": [
+    "no_company"
+   ],
+   "id": "e04470426c9d",
+   "firstSeen": "2026-10-19"
   },
   {
    "drug": "Vonoprazan Fumarate",
@@ -355,6 +399,27 @@
    "firstSeen": "2026-10-08"
   },
   {
+   "drug": "Ruxolitinib Cream 1.5%",
+   "company": "",
+   "date": "2026",
+   "year": 2026,
+   "month": null,
+   "indication": "For the topical short-term and non-continuous chronic treatment of mild to moderate atopic dermatitis in non-immunocompromised adult Patients of age 18 years and above whose disease is not adequately controlled with topical prescription therapies or when those therapies are not advisable.",
+   "recommendation": "",
+   "decision": "Other",
+   "therapy": [
+    "Dermatology"
+   ],
+   "drugType": "Unspecified",
+   "sourceUrl": "https://cdscoonline.gov.in/CDSCO/loadRecentApprovals?searchText=Ruxolitinib+Cream+1.5%25&year=&month=&drugTypeValue=",
+   "linkKind": "listing",
+   "quality": [
+    "no_company"
+   ],
+   "id": "b1e0ee36ed08",
+   "firstSeen": "2026-10-19"
+  },
+  {
    "drug": "Ribociclib Film-Coated Tablet 200 Mg",
    "company": "",
    "date": "2026",
@@ -564,6 +629,50 @@
    ],
    "id": "a2b9acce6686",
    "firstSeen": "2026-10-08"
+  },
+  {
+   "drug": "Ocrelizumab 920 Mg Solution For Injection [920 Mg/23 Ml In A Single-Dose Vial] [Ocrevus® Sc]",
+   "company": "",
+   "date": "2026",
+   "year": 2026,
+   "month": null,
+   "indication": "For The Treatment Of: ? Relapsing Forms Of Multiple Sclerosis (Ms), To Include Clinically Isolated Syndrome, Relapsing-Remitting Disease, And Active Secondary Progressive Disease, In Adults ? Primary Progressive Ms, In Adults.",
+   "recommendation": "",
+   "decision": "Other",
+   "therapy": [
+    "Neurology"
+   ],
+   "drugType": "Unspecified",
+   "sourceUrl": "https://cdscoonline.gov.in/CDSCO/loadRecentApprovals?searchText=Ocrelizumab+920+Mg+Solution+For+Injection+%5B920+Mg%2F23+Ml+In+A+Single-Dose+Vial%5D+%5BOcrevus%C2%AE+Sc%5D&year=&month=&drugTypeValue=",
+   "linkKind": "listing",
+   "quality": [
+    "no_company"
+   ],
+   "id": "1c42f37a74a3",
+   "firstSeen": "2026-10-19"
+  },
+  {
+   "drug": "Nivolumab",
+   "company": "",
+   "date": "2026",
+   "year": 2026,
+   "month": null,
+   "indication": "Adjuvant Treatment Of Resected Esophageal Or Gastroesophageal Junction Cancer (Ec Or Gejc),Hepatocellular Carcinoma,Malignant Pleural Mesothelioma,Locally Advanced Or Metastatic Non-Small Cell Lung Cancer,Renal Cell Carcinoma (Rcc),Squamous Cell Carcinoma Of The Head And Neck (Scchn),Melanoma,Classical Hodgkin Lymphoma (Chl),Urothelial Carcinoma (Uc),Colorectal Cancer (Crc),Esophageal Squamous Cell Carcinoma (Escc),Gastric Cancer, Gastroesophageal Junction Cancer, And Esophageal Adenocarcinoma (Gc, Gejc Or Eac)",
+   "recommendation": "",
+   "decision": "Other",
+   "therapy": [
+    "Oncology",
+    "Gastroenterology",
+    "Urology & Nephrology"
+   ],
+   "drugType": "Unspecified",
+   "sourceUrl": "https://cdscoonline.gov.in/CDSCO/loadRecentApprovals?searchText=Nivolumab&year=&month=&drugTypeValue=",
+   "linkKind": "listing",
+   "quality": [
+    "no_company"
+   ],
+   "id": "1f295270e8ec",
+   "firstSeen": "2026-10-19"
   },
   {
    "drug": "Naproxen Sodium U.S.P., E.P.",
@@ -1130,6 +1239,27 @@
    "firstSeen": "2026-10-08"
   },
   {
+   "drug": "Fitusiran",
+   "company": "",
+   "date": "2026",
+   "year": 2026,
+   "month": null,
+   "indication": "Qfitlia®Is An Antithrombin (At) Lowering Therapy Indicated For Routine Prophylaxis To Prevent Or Reduce The Frequency Of Bleeding Episodes In Adult And Adolescent Patients Aged 12 Years And Older With Hemophilia A Or B With Or Without Factor Viii Or Ix Inhibitors.",
+   "recommendation": "",
+   "decision": "Other",
+   "therapy": [
+    "Haematology"
+   ],
+   "drugType": "Unspecified",
+   "sourceUrl": "https://cdscoonline.gov.in/CDSCO/loadRecentApprovals?searchText=Fitusiran&year=&month=&drugTypeValue=",
+   "linkKind": "listing",
+   "quality": [
+    "no_company"
+   ],
+   "id": "50aec01a71e6",
+   "firstSeen": "2026-10-19"
+  },
+  {
    "drug": "Edoxaban Tosylate Monohydrate",
    "company": "",
    "date": "2026",
@@ -1411,6 +1541,25 @@
    "firstSeen": "2026-10-08"
   },
   {
+   "drug": "Cholecalciferol (Vitamin D3) Oral Solution",
+   "company": "",
+   "date": "2026",
+   "year": 2026,
+   "month": null,
+   "indication": "For The Treatment Of Vitamin D Deficiency In Individuals Aged 12 Years And Above (Adolescents And Adults)",
+   "recommendation": "",
+   "decision": "Other",
+   "therapy": [],
+   "drugType": "Unspecified",
+   "sourceUrl": "https://cdscoonline.gov.in/CDSCO/loadRecentApprovals?searchText=Cholecalciferol+%28Vitamin+D3%29+Oral+Solution&year=&month=&drugTypeValue=",
+   "linkKind": "listing",
+   "quality": [
+    "no_company"
+   ],
+   "id": "61f2a6dc224b",
+   "firstSeen": "2026-10-19"
+  },
+  {
    "drug": "Cetuximab Injection 5mg/Ml (Solution For Infusion)",
    "company": "",
    "date": "2026",
@@ -1553,6 +1702,46 @@
    ],
    "id": "a139596a5da9",
    "firstSeen": "2026-10-08"
+  },
+  {
+   "drug": "Cannabidiol Oral Solution 100 Mg/Ml",
+   "company": "",
+   "date": "2026",
+   "year": 2026,
+   "month": null,
+   "indication": "Indicated For The Treatment Of Seizures Associated With Lennox-Gastaut Syndrome, Dravet Syndrome, Or Tuberous Sclerosis Complex In Patients 1 Year Of Age And Older.",
+   "recommendation": "",
+   "decision": "Other",
+   "therapy": [
+    "Neurology"
+   ],
+   "drugType": "Unspecified",
+   "sourceUrl": "https://cdscoonline.gov.in/CDSCO/loadRecentApprovals?searchText=Cannabidiol+Oral+Solution+100+Mg%2FMl&year=&month=&drugTypeValue=",
+   "linkKind": "listing",
+   "quality": [
+    "no_company"
+   ],
+   "id": "c24b056f5287",
+   "firstSeen": "2026-10-19"
+  },
+  {
+   "drug": "Cannabidiol",
+   "company": "",
+   "date": "2026",
+   "year": 2026,
+   "month": null,
+   "indication": "NA",
+   "recommendation": "",
+   "decision": "Other",
+   "therapy": [],
+   "drugType": "Unspecified",
+   "sourceUrl": "https://cdscoonline.gov.in/CDSCO/loadRecentApprovals?searchText=Cannabidiol&year=&month=&drugTypeValue=",
+   "linkKind": "listing",
+   "quality": [
+    "no_company"
+   ],
+   "id": "200fb4c6b9dc",
+   "firstSeen": "2026-10-19"
   },
   {
    "drug": "Brexpiprazole Tablets",

@@ -1,60 +1,67 @@
 {
- "generatedAt": "2026-10-12T09:30:11+00:00",
- "newCount": 8,
+ "generatedAt": "2026-10-19T07:58:28+00:00",
+ "newCount": 9,
  "watchlistHits": [],
  "newRecords": [
   {
-   "id": "78d0d96dc100",
-   "drug": "Atomoxetine Oral Solution",
+   "id": "1f295270e8ec",
+   "drug": "Nivolumab",
    "company": "",
    "date": "2026",
    "decision": "Other"
   },
   {
-   "id": "507a387f2ed0",
-   "drug": "Dapagliflozin + Metformin Hcl (As Sustained Release) + Vildagliptin (As Sustained Release)",
+   "id": "c24b056f5287",
+   "drug": "Cannabidiol Oral Solution 100 Mg/Ml",
    "company": "",
    "date": "2026",
    "decision": "Other"
   },
   {
-   "id": "68e3ae54162c",
-   "drug": "Inactivated Hepatitis A Vaccine (Adsorbed) I.P.",
+   "id": "200fb4c6b9dc",
+   "drug": "Cannabidiol",
    "company": "",
    "date": "2026",
    "decision": "Other"
   },
   {
-   "id": "b0c6680c1ab3",
-   "drug": "Purified Polysaccharide Conjugate Of S. Pneumoniae, Serotypes 1, 5, 6a, 6b, 7f, 9v, 14, 18c, 19a, 19f, 23f Conjugated To Crm197",
+   "id": "7639a09fc91b",
+   "drug": "Zanubrutinib Tablets 160 Mg",
    "company": "",
    "date": "2026",
    "decision": "Other"
   },
   {
-   "id": "fd6034f87108",
-   "drug": "Clindamycin Phosphate",
+   "id": "b1e0ee36ed08",
+   "drug": "Ruxolitinib Cream 1.5%",
    "company": "",
    "date": "2026",
    "decision": "Other"
   },
   {
-   "id": "41ded9670f00",
-   "drug": "Hydroxyethyl Starch (130/0.4)",
+   "id": "61f2a6dc224b",
+   "drug": "Cholecalciferol (Vitamin D3) Oral Solution",
    "company": "",
    "date": "2026",
    "decision": "Other"
   },
   {
-   "id": "aba98f95ee46",
-   "drug": "Amorolfine Hydrochloride",
+   "id": "e04470426c9d",
+   "drug": "Vonoprazan Fumarate Equivalent To Vonoprazan 10 Mg And 20 Mg",
    "company": "",
    "date": "2026",
    "decision": "Other"
   },
   {
-   "id": "d01718d6050c",
-   "drug": "Ceftazidime-Avibactam Bulk Mixture (Sterile)",
+   "id": "50aec01a71e6",
+   "drug": "Fitusiran",
+   "company": "",
+   "date": "2026",
+   "decision": "Other"
+  },
+  {
+   "id": "1c42f37a74a3",
+   "drug": "Ocrelizumab 920 Mg Solution For Injection [920 Mg/23 Ml In A Single-Dose Vial] [Ocrevus® Sc]",
    "company": "",
    "date": "2026",
    "decision": "Other"
