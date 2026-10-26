@@ -1,67 +1,121 @@
 {
- "generatedAt": "2026-10-19T07:58:28+00:00",
- "newCount": 9,
- "watchlistHits": [],
+ "generatedAt": "2026-10-26T07:58:02+00:00",
+ "newCount": 15,
+ "watchlistHits": [
+  {
+   "id": "b12d1e655a36",
+   "drug": "Semaglutide Injection 2 Mg (R-Dna Origin), Solution For Injection In Pre-Filled",
+   "company": "",
+   "date": "2026",
+   "decision": "Other",
+   "sourceUrl": "https://cdscoonline.gov.in/CDSCO/loadRecentApprovals?searchText=Semaglutide+Injection+2+Mg+%28R-Dna+Origin%29%2C+Solution+For+Injection+In+Pre-Filled&year=&month=&drugTypeValue=",
+   "matched": [
+    "semaglutide"
+   ]
+  }
+ ],
  "newRecords": [
   {
-   "id": "1f295270e8ec",
-   "drug": "Nivolumab",
+   "id": "8440ce1adef1",
+   "drug": "Sitagliptin Phosphate Monohydrate",
    "company": "",
    "date": "2026",
    "decision": "Other"
   },
   {
-   "id": "c24b056f5287",
-   "drug": "Cannabidiol Oral Solution 100 Mg/Ml",
+   "id": "dba4979675e6",
+   "drug": "Glutathione",
    "company": "",
    "date": "2026",
    "decision": "Other"
   },
   {
-   "id": "200fb4c6b9dc",
-   "drug": "Cannabidiol",
+   "id": "f16878a3a10f",
+   "drug": "Bromfenac Sodium Sesquihydrate",
    "company": "",
    "date": "2026",
    "decision": "Other"
   },
   {
-   "id": "7639a09fc91b",
-   "drug": "Zanubrutinib Tablets 160 Mg",
+   "id": "8ee7354a6b66",
+   "drug": "Loxoprofen Sodium Powder For Oral Solution 60 Mg",
    "company": "",
    "date": "2026",
    "decision": "Other"
   },
   {
-   "id": "b1e0ee36ed08",
-   "drug": "Ruxolitinib Cream 1.5%",
+   "id": "7bfddf49fb35",
+   "drug": "Vonoprazan Tablets 10 Mg And 20 Mg",
    "company": "",
    "date": "2026",
    "decision": "Other"
   },
   {
-   "id": "61f2a6dc224b",
-   "drug": "Cholecalciferol (Vitamin D3) Oral Solution",
+   "id": "aea297820e2c",
+   "drug": "Amivantamab Liquid Concentrate For Infusion 350mg",
    "company": "",
    "date": "2026",
    "decision": "Other"
   },
   {
-   "id": "e04470426c9d",
-   "drug": "Vonoprazan Fumarate Equivalent To Vonoprazan 10 Mg And 20 Mg",
+   "id": "6574ff8e54a5",
+   "drug": "Teicoplanin",
    "company": "",
    "date": "2026",
    "decision": "Other"
   },
   {
-   "id": "50aec01a71e6",
-   "drug": "Fitusiran",
+   "id": "d5d134131ec8",
+   "drug": "Dapagliflozin + Metformin As Extended Release + Sitagliptin",
    "company": "",
    "date": "2026",
    "decision": "Other"
   },
   {
-   "id": "1c42f37a74a3",
-   "drug": "Ocrelizumab 920 Mg Solution For Injection [920 Mg/23 Ml In A Single-Dose Vial] [Ocrevus® Sc]",
+   "id": "850662360d9b",
+   "drug": "Diphtheria, Tetanus, Pertussis (Acellular Component), Hepatitis B (Rdna), Poliomyelitis (Inactivated) And Haemophilus Influenzae Type B Conjugate Vaccine I.P. (Adsorbed)",
+   "company": "",
+   "date": "2026",
+   "decision": "Other"
+  },
+  {
+   "id": "5b7f76e658be",
+   "drug": "Eluxadoline Tablets",
+   "company": "",
+   "date": "2026",
+   "decision": "Other"
+  },
+  {
+   "id": "56a12ab16446",
+   "drug": "Polymyxin B Sulfate",
+   "company": "",
+   "date": "2026",
+   "decision": "Other"
+  },
+  {
+   "id": "8b89ae5017d0",
+   "drug": "Faropenem Sodium Dispersible Tablets",
+   "company": "",
+   "date": "2026",
+   "decision": "Other"
+  },
+  {
+   "id": "e064d3a5d429",
+   "drug": "Upadacitinib",
+   "company": "",
+   "date": "2026",
+   "decision": "Other"
+  },
+  {
+   "id": "ed307ca036e2",
+   "drug": "Bisoprolol Fumarate + Dapagliflozin Propanediol",
+   "company": "",
+   "date": "2026",
+   "decision": "Other"
+  },
+  {
+   "id": "b12d1e655a36",
+   "drug": "Semaglutide Injection 2 Mg (R-Dna Origin), Solution For Injection In Pre-Filled",
    "company": "",
    "date": "2026",
    "decision": "Other"

@@ -1,8 +1,8 @@
 {
  "meta": {
   "version": 1,
-  "generatedAt": "2026-10-19T07:58:28+00:00",
-  "count": 97,
+  "generatedAt": "2026-10-26T07:58:02+00:00",
+  "count": 112,
   "sample": false
  },
  "records": [
@@ -45,6 +45,29 @@
    ],
    "id": "7639a09fc91b",
    "firstSeen": "2026-10-19"
+  },
+  {
+   "drug": "Vonoprazan Tablets 10 Mg And 20 Mg",
+   "company": "",
+   "date": "2026",
+   "year": 2026,
+   "month": null,
+   "indication": "Vonoprazan Is A Potassium-Competitive Acid Blocker Indicated For: ? Treatment Of Reflux Esophagitis (Re) ? Treatment Of Gastric Ulcer (Gu) ? Treatment Of Duodenal Ulcer (Du) ? Prevention Of Recurrence Of Gastric Ulcer Or Duodenal Ulcer During Low-Dose Aspirin Administration. ? Prevention Of Recurrence Of Gastric Ulcer Or Duodenal Ulcer During Nsaids Administration. ? Adjunct To Helicobacter Pylori Eradication Associated With: Gastric Ulcer, Duodenal Ulcer, Gastric Malt Lymphoma, Idiopathic Thrombocytopenic Purpura, The Stomach After Endoscopic Resection Of Early-Stage Cancer, Or Helicobacter Pylori Gastritis.",
+   "recommendation": "",
+   "decision": "Other",
+   "therapy": [
+    "Oncology",
+    "Cardiovascular",
+    "Gastroenterology"
+   ],
+   "drugType": "Unspecified",
+   "sourceUrl": "https://cdscoonline.gov.in/CDSCO/loadRecentApprovals?searchText=Vonoprazan+Tablets+10+Mg+And+20+Mg&year=&month=&drugTypeValue=",
+   "linkKind": "listing",
+   "quality": [
+    "no_company"
+   ],
+   "id": "7bfddf49fb35",
+   "firstSeen": "2026-10-26"
   },
   {
    "drug": "Vonoprazan Tablets",
@@ -156,6 +179,25 @@
    "firstSeen": "2026-10-08"
   },
   {
+   "drug": "Upadacitinib",
+   "company": "",
+   "date": "2026",
+   "year": 2026,
+   "month": null,
+   "indication": "NA",
+   "recommendation": "",
+   "decision": "Other",
+   "therapy": [],
+   "drugType": "Unspecified",
+   "sourceUrl": "https://cdscoonline.gov.in/CDSCO/loadRecentApprovals?searchText=Upadacitinib&year=&month=&drugTypeValue=",
+   "linkKind": "listing",
+   "quality": [
+    "no_company"
+   ],
+   "id": "e064d3a5d429",
+   "firstSeen": "2026-10-26"
+  },
+  {
    "drug": "Tyrosine U.S.P.",
    "company": "",
    "date": "2026",
@@ -213,6 +255,25 @@
    ],
    "id": "e5a3484cdda4",
    "firstSeen": "2026-10-08"
+  },
+  {
+   "drug": "Teicoplanin",
+   "company": "",
+   "date": "2026",
+   "year": 2026,
+   "month": null,
+   "indication": "NA",
+   "recommendation": "",
+   "decision": "Other",
+   "therapy": [],
+   "drugType": "Unspecified",
+   "sourceUrl": "https://cdscoonline.gov.in/CDSCO/loadRecentApprovals?searchText=Teicoplanin&year=&month=&drugTypeValue=",
+   "linkKind": "listing",
+   "quality": [
+    "no_company"
+   ],
+   "id": "6574ff8e54a5",
+   "firstSeen": "2026-10-26"
   },
   {
    "drug": "Tegoprazan Tablet 50 Mg",
@@ -335,6 +396,27 @@
    "firstSeen": "2026-10-08"
   },
   {
+   "drug": "Sitagliptin Phosphate Monohydrate",
+   "company": "",
+   "date": "2026",
+   "year": 2026,
+   "month": null,
+   "indication": "NA",
+   "recommendation": "",
+   "decision": "Other",
+   "therapy": [
+    "Diabetes & Endocrine"
+   ],
+   "drugType": "Unspecified",
+   "sourceUrl": "https://cdscoonline.gov.in/CDSCO/loadRecentApprovals?searchText=Sitagliptin+Phosphate+Monohydrate&year=&month=&drugTypeValue=",
+   "linkKind": "listing",
+   "quality": [
+    "no_company"
+   ],
+   "id": "8440ce1adef1",
+   "firstSeen": "2026-10-26"
+  },
+  {
    "drug": "Sitagliptin Phosphate Ip/Usp",
    "company": "",
    "date": "2026",
@@ -354,6 +436,29 @@
    ],
    "id": "cb1d6e94d905",
    "firstSeen": "2026-10-08"
+  },
+  {
+   "drug": "Semaglutide Injection 2 Mg (R-Dna Origin), Solution For Injection In Pre-Filled",
+   "company": "",
+   "date": "2026",
+   "year": 2026,
+   "month": null,
+   "indication": "Semaglutide Injection (Ozempic® & Extensior®) Is Indicated: ? As An Adjunct To Diet And Exercise To Improve Glycemic Control In Adults With Type 2 Diabetes Mellitus ? To Reduce The Risk Of Major Adverse Cardiovascular Events In Adults With Type 2 Diabetes Mellitus And Established Cardiovascular Disease ? To Reduce The Risk Of Sustained Egfr Decline, End-Stage Kidney Disease And Cardiovascular Death In Adults With Type 2 Diabetes Mellitus And Chronic Kidney Disease.",
+   "recommendation": "",
+   "decision": "Other",
+   "therapy": [
+    "Diabetes & Endocrine",
+    "Cardiovascular",
+    "Urology & Nephrology"
+   ],
+   "drugType": "Unspecified",
+   "sourceUrl": "https://cdscoonline.gov.in/CDSCO/loadRecentApprovals?searchText=Semaglutide+Injection+2+Mg+%28R-Dna+Origin%29%2C+Solution+For+Injection+In+Pre-Filled&year=&month=&drugTypeValue=",
+   "linkKind": "listing",
+   "quality": [
+    "no_company"
+   ],
+   "id": "b12d1e655a36",
+   "firstSeen": "2026-10-26"
   },
   {
    "drug": "Semaglutide Injection",
@@ -523,6 +628,25 @@
    ],
    "id": "b0c6680c1ab3",
    "firstSeen": "2026-10-12"
+  },
+  {
+   "drug": "Polymyxin B Sulfate",
+   "company": "",
+   "date": "2026",
+   "year": 2026,
+   "month": null,
+   "indication": "NA",
+   "recommendation": "",
+   "decision": "Other",
+   "therapy": [],
+   "drugType": "Unspecified",
+   "sourceUrl": "https://cdscoonline.gov.in/CDSCO/loadRecentApprovals?searchText=Polymyxin+B+Sulfate&year=&month=&drugTypeValue=",
+   "linkKind": "listing",
+   "quality": [
+    "no_company"
+   ],
+   "id": "56a12ab16446",
+   "firstSeen": "2026-10-26"
   },
   {
    "drug": "Pneumococcal Polysaccharide Conjugate Vaccine (Adsorbed) Ip, 11-Valent",
@@ -896,6 +1020,28 @@
    "firstSeen": "2026-10-08"
   },
   {
+   "drug": "Loxoprofen Sodium Powder For Oral Solution 60 Mg",
+   "company": "",
+   "date": "2026",
+   "year": 2026,
+   "month": null,
+   "indication": "For The Symptomatic Treatment Of Pain And Inflammation Condition In Patients With Osteoarthritis.",
+   "recommendation": "",
+   "decision": "Other",
+   "therapy": [
+    "Immunology & Rheumatology",
+    "Pain & Anaesthesia"
+   ],
+   "drugType": "Unspecified",
+   "sourceUrl": "https://cdscoonline.gov.in/CDSCO/loadRecentApprovals?searchText=Loxoprofen+Sodium+Powder+For+Oral+Solution+60+Mg&year=&month=&drugTypeValue=",
+   "linkKind": "listing",
+   "quality": [
+    "no_company"
+   ],
+   "id": "8ee7354a6b66",
+   "firstSeen": "2026-10-26"
+  },
+  {
    "drug": "Levetiracetam",
    "company": "",
    "date": "2026",
@@ -1119,6 +1265,25 @@
    "firstSeen": "2026-10-08"
   },
   {
+   "drug": "Glutathione",
+   "company": "",
+   "date": "2026",
+   "year": 2026,
+   "month": null,
+   "indication": "NA",
+   "recommendation": "",
+   "decision": "Other",
+   "therapy": [],
+   "drugType": "Unspecified",
+   "sourceUrl": "https://cdscoonline.gov.in/CDSCO/loadRecentApprovals?searchText=Glutathione&year=&month=&drugTypeValue=",
+   "linkKind": "listing",
+   "quality": [
+    "no_company"
+   ],
+   "id": "dba4979675e6",
+   "firstSeen": "2026-10-26"
+  },
+  {
    "drug": "Gefapixant Tablets 45 Mg",
    "company": "",
    "date": "2026",
@@ -1260,6 +1425,50 @@
    "firstSeen": "2026-10-19"
   },
   {
+   "drug": "Faropenem Sodium Dispersible Tablets",
+   "company": "",
+   "date": "2026",
+   "year": 2026,
+   "month": null,
+   "indication": "It Is Indicated For ? For The Treatment Of Superficial And Deep Skin Infections Like Chronic Pyoderma, Pharyngitis/Laryngitis And Ent Infections Like Otitis Media, Tonsillitis, Sinusitis, Acute Tracheo-Bronchitis, Bacterial Pneumonia, Utls Like Cystitis, Pyelonephritis, Lymphangitis/Lymphadenitis, Teeth Periodontitis, Scarlet Fever And Whooping Cough. ? For The Treatment Of Upper And Lower Respiratory Tract Infection, Urinary Tract Infection And Skin & Skin Structure Infection.",
+   "recommendation": "",
+   "decision": "Other",
+   "therapy": [
+    "Infectious Disease",
+    "Respiratory",
+    "Urology & Nephrology"
+   ],
+   "drugType": "Unspecified",
+   "sourceUrl": "https://cdscoonline.gov.in/CDSCO/loadRecentApprovals?searchText=Faropenem+Sodium+Dispersible+Tablets&year=&month=&drugTypeValue=",
+   "linkKind": "listing",
+   "quality": [
+    "no_company"
+   ],
+   "id": "8b89ae5017d0",
+   "firstSeen": "2026-10-26"
+  },
+  {
+   "drug": "Eluxadoline Tablets",
+   "company": "",
+   "date": "2026",
+   "year": 2026,
+   "month": null,
+   "indication": "It Is Indicated In Adults For The Treatment Of Irritable Bowel Syndrome With Diarrhea (Ibs-D).",
+   "recommendation": "",
+   "decision": "Other",
+   "therapy": [
+    "Gastroenterology"
+   ],
+   "drugType": "Unspecified",
+   "sourceUrl": "https://cdscoonline.gov.in/CDSCO/loadRecentApprovals?searchText=Eluxadoline+Tablets&year=&month=&drugTypeValue=",
+   "linkKind": "listing",
+   "quality": [
+    "no_company"
+   ],
+   "id": "5b7f76e658be",
+   "firstSeen": "2026-10-26"
+  },
+  {
    "drug": "Edoxaban Tosylate Monohydrate",
    "company": "",
    "date": "2026",
@@ -1338,6 +1547,28 @@
    ],
    "id": "cfcadd3521f6",
    "firstSeen": "2026-10-08"
+  },
+  {
+   "drug": "Diphtheria, Tetanus, Pertussis (Acellular Component), Hepatitis B (Rdna), Poliomyelitis (Inactivated) And Haemophilus Influenzae Type B Conjugate Vaccine I.P. (Adsorbed)",
+   "company": "",
+   "date": "2026",
+   "year": 2026,
+   "month": null,
+   "indication": "Hexaxim Is Indicated For Primary And Booster Vaccination Of Infants And Toddlers From Six Weeks Of Age Against Diphtheria, Tetanus, Pertussis, Hepatitis B, Poliomyelitis And Invasive Diseases Caused By Haemophilus Influenzae Type B (Hib)",
+   "recommendation": "",
+   "decision": "Other",
+   "therapy": [
+    "Infectious Disease",
+    "Vaccines"
+   ],
+   "drugType": "Unspecified",
+   "sourceUrl": "https://cdscoonline.gov.in/CDSCO/loadRecentApprovals?searchText=Diphtheria%2C+Tetanus%2C+Pertussis+%28Acellular+Component%29%2C+Hepatitis+B+%28Rdna%29%2C+Poliomyelitis+%28Inactivated%29+And+Haemophilus+Influenzae+Type+B+Conjugate+Vaccine+I.P.+%28Adsorbed%29&year=&month=&drugTypeValue=",
+   "linkKind": "listing",
+   "quality": [
+    "no_company"
+   ],
+   "id": "850662360d9b",
+   "firstSeen": "2026-10-26"
   },
   {
    "drug": "Dexmedetomidine Hydrochloride Solution For Infusion",
@@ -1421,6 +1652,27 @@
    ],
    "id": "507a387f2ed0",
    "firstSeen": "2026-10-12"
+  },
+  {
+   "drug": "Dapagliflozin + Metformin As Extended Release + Sitagliptin",
+   "company": "",
+   "date": "2026",
+   "year": 2026,
+   "month": null,
+   "indication": "It Is Indicated As An Adjunct To Diet And Exercise To Improve Glycemic Control In Adults With Type 2 Diabetes Mellitus",
+   "recommendation": "",
+   "decision": "Other",
+   "therapy": [
+    "Diabetes & Endocrine"
+   ],
+   "drugType": "Fixed-dose combination",
+   "sourceUrl": "https://cdscoonline.gov.in/CDSCO/loadRecentApprovals?searchText=Dapagliflozin+%2B+Metformin+As+Extended+Release+%2B+Sitagliptin&year=&month=&drugTypeValue=",
+   "linkKind": "listing",
+   "quality": [
+    "no_company"
+   ],
+   "id": "d5d134131ec8",
+   "firstSeen": "2026-10-26"
   },
   {
    "drug": "Dapagliflozin + Extended Release Metformin Hydrochloride + Glimepiride",
@@ -1744,6 +1996,25 @@
    "firstSeen": "2026-10-19"
   },
   {
+   "drug": "Bromfenac Sodium Sesquihydrate",
+   "company": "",
+   "date": "2026",
+   "year": 2026,
+   "month": null,
+   "indication": "NA",
+   "recommendation": "",
+   "decision": "Other",
+   "therapy": [],
+   "drugType": "Unspecified",
+   "sourceUrl": "https://cdscoonline.gov.in/CDSCO/loadRecentApprovals?searchText=Bromfenac+Sodium+Sesquihydrate&year=&month=&drugTypeValue=",
+   "linkKind": "listing",
+   "quality": [
+    "no_company"
+   ],
+   "id": "f16878a3a10f",
+   "firstSeen": "2026-10-26"
+  },
+  {
    "drug": "Brexpiprazole Tablets",
    "company": "",
    "date": "2026",
@@ -1784,6 +2055,28 @@
    ],
    "id": "54bc7defcc5d",
    "firstSeen": "2026-10-08"
+  },
+  {
+   "drug": "Bisoprolol Fumarate + Dapagliflozin Propanediol",
+   "company": "",
+   "date": "2026",
+   "year": 2026,
+   "month": null,
+   "indication": "Indicated In Patients With Heart Failure With Reduced Ejection Fraction",
+   "recommendation": "",
+   "decision": "Other",
+   "therapy": [
+    "Diabetes & Endocrine",
+    "Cardiovascular"
+   ],
+   "drugType": "Fixed-dose combination",
+   "sourceUrl": "https://cdscoonline.gov.in/CDSCO/loadRecentApprovals?searchText=Bisoprolol+Fumarate+%2B+Dapagliflozin+Propanediol&year=&month=&drugTypeValue=",
+   "linkKind": "listing",
+   "quality": [
+    "no_company"
+   ],
+   "id": "ed307ca036e2",
+   "firstSeen": "2026-10-26"
   },
   {
    "drug": "Biphasic Isophane Insulin Injection Ip (50/50 Biphasic), 100 Iu/Ml, 10 Ml Vials",
@@ -1908,6 +2201,27 @@
    ],
    "id": "aba98f95ee46",
    "firstSeen": "2026-10-12"
+  },
+  {
+   "drug": "Amivantamab Liquid Concentrate For Infusion 350mg",
+   "company": "",
+   "date": "2026",
+   "year": 2026,
+   "month": null,
+   "indication": "Rybrevant Is Indicated In Combination With Carboplatin And Pemetrexed For The First\u0002Line Treatment Of Adult Patients With Locally Advanced Or Metastatic Non-Small Cell Lung Cancer (Nsclc) With Activating Epidermal-Growth Factor Receptor (Egfr) Exon 20 Insertion Mutations,Rybrevant Is Indicated As Monotherapy For The Treatment Of Adult Patients With Locally Advanced Or Metastatic Nsclc With Activating Egfr Exon 20 Insertion Mutations Whose Disease Has Progressed On Or After Platinum-Based Chemotherapy.,Rybrevant Is Indicated In Combination With Carboplatin And Pemetrexed For The Treatment Of Patients With Locally Advanced Or Metastatic Nsclc With Egfr Exon 19 Deletions Or Exon 21 L858r Substitution Mutations, Whose Disease Has Progressed On Or After Treatment With Osimertinib.",
+   "recommendation": "",
+   "decision": "Other",
+   "therapy": [
+    "Oncology"
+   ],
+   "drugType": "Unspecified",
+   "sourceUrl": "https://cdscoonline.gov.in/CDSCO/loadRecentApprovals?searchText=Amivantamab+Liquid+Concentrate+For+Infusion+350mg&year=&month=&drugTypeValue=",
+   "linkKind": "listing",
+   "quality": [
+    "no_company"
+   ],
+   "id": "aea297820e2c",
+   "firstSeen": "2026-10-26"
   },
   {
    "drug": "Aflibercept Solution For Intravitreal Injection",
